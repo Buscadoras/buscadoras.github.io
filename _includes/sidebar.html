@@ -5,12 +5,13 @@
 
 <nav class="navbar">
 <ul class="nav-menu">
-  <li><a href="{{ '/' | absolute_url }}" target="_self"><!--class="activo"-->
-    {{ site.data[site.active_lang]["sidebar"].home }}
-  </a></li>
+    <li><a href="{{ '/' | absolute_url }}" target="_self"><!--class="activo"-->
+      {{ site.data[site.active_lang]["sidebar"].home }}
+    </a></li>
+    <!--
     <li><a href="{{ '/tools/' | absolute_url }}" target="_self">
       {{ site.data[site.active_lang]["sidebar"].tools }}
-    </a></li>
+    </a></li> -->
     <li><a href="{{ '/testimonios/' | absolute_url }}" target="_self">
       {{ site.data[site.active_lang]["sidebar"].testimonies }}
     </a></li>
@@ -20,25 +21,21 @@
     <li><a href="{{ '/biblio/' | absolute_url }}" target="_self">
       {{ site.data[site.active_lang]["sidebar"].resources }}
     </a></li>
+    <!--
     <li><a href="{{ '/datavis/' | absolute_url }}" target="_self">
       {{ site.data[site.active_lang]["sidebar"].maps }}
-    </a></li>
+    </a></li>-->
     <li><a href="{{ '/directorio/' | absolute_url }}" target="_self">
       {{ site.data[site.active_lang]["sidebar"].directory }}
     </a></li>
 </ul>
 </nav>
 
-
-
 <div id="guide">
   <h2>Guía práctica</h2>
   <h1>Pasos a seguir tras una <span>desaparición</span>.</h1>
   <a href="{{ '/guia/' | absolute_url }}" target="_self">Consulta</a>
 </div>
-
-
-
 
 
 <p class="nav-p">
