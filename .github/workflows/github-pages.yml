@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-obs:
+jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
