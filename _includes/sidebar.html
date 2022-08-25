@@ -1,0 +1,71 @@
+
+<sidebar>
+
+<a href="{{ '/' | absolute_url }}" id="name">{{ site.data[site.active_lang]["sidebar"].name }}</a>
+
+<nav class="navbar">
+<ul class="nav-menu">
+  <li><a href="{{ '/' | absolute_url }}" target="_self"><!--class="activo"-->
+    {{ site.data[site.active_lang]["sidebar"].home }}
+  </a></li>
+    <li><a href="{{ '/tools/' | absolute_url }}" target="_self">
+      {{ site.data[site.active_lang]["sidebar"].tools }}
+    </a></li>
+    <li><a href="{{ '/testimonios/' | absolute_url }}" target="_self">
+      {{ site.data[site.active_lang]["sidebar"].testimonies }}
+    </a></li>
+    <li><a href="{{ '/documentos/' | absolute_url }}" target="_self">
+      {{ site.data[site.active_lang]["sidebar"].documents }}
+    </a></li>
+    <li><a href="{{ '/biblio/' | absolute_url }}" target="_self">
+      {{ site.data[site.active_lang]["sidebar"].resources }}
+    </a></li>
+    <li><a href="{{ '/datavis/' | absolute_url }}" target="_self">
+      {{ site.data[site.active_lang]["sidebar"].maps }}
+    </a></li>
+    <li><a href="{{ '/directorio/' | absolute_url }}" target="_self">
+      {{ site.data[site.active_lang]["sidebar"].directory }}
+    </a></li>
+</ul>
+</nav>
+
+
+
+<div id="guide">
+  <h2>Guía práctica</h2>
+  <h1>Pasos a seguir tras una <span>desaparición</span>.</h1>
+  <a href="{{ '/guia/' | absolute_url }}" target="_self">Consulta</a>
+</div>
+
+
+
+
+
+<p class="nav-p">
+
+<a href="{{ '/credits/' | absolute_url }}" target="_self">
+{{ site.data[site.active_lang]["sidebar"].credits }}
+</a><br/><br/>
+
+
+
+<!-- jekyll-polyglot will process ferh= into href= through the static_href liquid block tag without relativizing the url; useful for making language navigation switchers  -->
+{% for language in site.languages %}
+<a {% if language == site.active_lang %}style="color: #00FFB6; text-decoration:none;"{% endif %} {% static_href %}href="{% if language == site.default_lang %}{{ "" | absolute_url}}{{page.url}}{% else %}{{"" | absolute_url}}/{{ language }}{{page.url}}{% endif %}"{% endstatic_href %} >
+  {% for i in site.data.languages %}
+  {% if i.iso == language %}
+    {% assign language_name = i.description %}
+  {% endif%}
+{% endfor %}{{ language_name }}</a> {% unless forloop.last %}|{% endunless %}
+  {% endfor %}
+</p>
+
+
+
+<div class="hamburger activo">
+ 		<span class="bar"></span>
+ 		<span class="bar"></span>
+    <span class="bar"></span>
+</div>
+
+</sidebar>

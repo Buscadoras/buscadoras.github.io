@@ -1,0 +1,16 @@
+# jekyll things
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+img
+
+# system things
+.DS_Store
+.idea/
+
+# ruby things
+Gemfile.lock
+
+# wax things
+wax_tasks

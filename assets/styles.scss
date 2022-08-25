@@ -1,0 +1,92 @@
+---
+sitemap: false
+---
+
+/* branding */
+$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+
+/* text */
+
+$heading-font:    'DM Serif Display', 'serif';
+$body-font:       'Inter', 'sans-serif';
+
+/* Image Size */
+
+$thumbnail-height: 200px;
+$thumbnail-width: 30%;
+
+/* colors */
+
+/*
+$bg-color:        #F7F6F6;
+$text-color:      #31302F;
+$neutro:          #EEEEEC;
+
+$earth:           #A7A2A0;
+$earth-dark:      #847F7C;
+$sky:             #E2EEF7;
+$brick:           #E66D4B;
+
+$green-dark:     #428270;
+$green_8:    #DEECE6;
+*/
+
+$midnight:       #161616;
+$gray:           #575860;
+$neutro_0:       #32302F;
+$neutro_1:       #53504D;
+$neutro_2:       #847F7C;
+$neutro_7:       #E4E2E2;
+$neutro_8:       #CAC6C5;
+$neutro_9:       #F7F6F6;
+
+
+$green_0:     #428270;
+$green_1:     #22A17E;
+$green_7:     #EDFFFA;
+$green_8:     #DDFEF4;
+$green_9:     #00FFB6;
+
+
+$red:     #E66D4B;
+$pink_pale:    #FCF1F8;
+
+
+
+/* viewport sizes */
+$max-width:       980px;
+
+/* margins */
+$less-margin:     1.0rem;
+$margin:          1.5rem;
+$more-margin:     2.0rem;
+$super-margin:    3.0rem;
+
+
+$viewer-height:   550px;
+$parallax-height: 350px;
+$footer-height:   250px;
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import 'bus';
+
+
+
+/*
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+@font-face {
+  font-family: "New York";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/newyork/newyorkdisplay-regular-webfont.woff");
+}
+
+$heading-font:    'New York', 'serif';
+$body-font:       'San Francisco', 'sans-serif';
+*/
