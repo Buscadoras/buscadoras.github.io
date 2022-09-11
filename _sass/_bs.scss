@@ -12,8 +12,8 @@ html, body {
 }
 
 body {
-  background-color: $neutro_7;
-  transition: background-color 1s ease;
+  background-color: #EEEEEC;
+  transition: background-color 2s ease;
   color: $midnight;
 }
 
@@ -33,10 +33,7 @@ h2 {
   margin: 0 0 18px 0;
 }
 
-
-
 h3 {
-  font-family: $heading-font;
   font-family: $body-font;
   font-size: 1.6em;
   font-weight: 800;
@@ -45,13 +42,16 @@ h3 {
   text-transform: uppercase;
   display: inline-block;
 }
+
+
+/*
 h3::after {
   content: '';
   display: block;
-  height: 6px;
-  background: #DDFEF4;
+  height: 2px;
+  background: #847F7C;
 }
-
+*/
 
 
 
@@ -77,8 +77,9 @@ p {
 
 p.big {
   font-size: 18px;
+  line-height: 26px;
   margin: 0 0 12px 0;
-  padding: 0 180px 0 0;
+  padding: 0 240px 0 0;
   text-align: justify;
 }
 
@@ -116,33 +117,59 @@ p.big {
   color: #00FFB6;
 }
 
-.color-neutro2 {
-  background-color: #575860;
-}
 
-.color-A6A {
+.color-cream {
   background-color: #FFF0FA;
 }
 
-
-.color-neutro9 {
-  background-color: $neutro_9;
-}
-
 .color-pink {
-  background-color: $pink_pale;
+  background-color: #F0E1EB;
 }
 
 .color-green {
-  background-color: $green_7;
-}
-
-.color-428 {
   background-color: #D3EFD4;
 }
 
-.color-lile {
-  background-color: #F3EEFA;
+
+
+
+
+#full_bg_image {
+  width: 84%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 16%;
+  z-index: 1;
+  background-image: url('../assets/images/full_bg_6C2A0695.jpg');
+  //background-image: url('../assets/images/full_bg_nEP3Ke2f.jpg');
+  background-size: 100%;
+  display: none;
+}
+
+div#carousel {
+  position: fixed;
+  right: 40px;
+  top: 40%;
+  z-index: 90;
+  ul {
+
+  }
+  li {
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #fff;
+    opacity: 0.8;
+    text-indent: 20px;
+    overflow: hidden;
+    margin: 0 0 12px 0;
+    cursor: pointer;
+  }
+  li:hover {
+    opacity: 1;
+  }
 }
 
 
@@ -196,81 +223,81 @@ a.Tw {
 
 
 
+
+
+
+
+
 /* ––– SIDEBAR ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 sidebar {
-	background-color: $gray;
-	width: 19%;
+	background-color: #DBDADA;
+	width: 16%;
 	height: 100%;
 	position: fixed;
 	left: 0;
 	top: 0;
-	z-index: 99;
+	z-index: 98;
+  padding: 0;
 }
 
 a#name {
 	position: absolute;
-	top: 36px;
-	left: 36px;
-  font-size: 0.8rem;
-  line-height: auto;
+	top: 32px;
+	left: 20px;
+  font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.3px;
-  color: $neutro_9;
-  background-image: url('../assets/images/logo_mini.svg');
+  color: #32302F;
+  /*background-image: url('../assets/images/logo_mini.svg');
   background-repeat: no-repeat;
   background-position: 0 0;
-  background-size: 16px;
-  padding: 6px 0 6px 22px;
+  background-size: 16px;*/
 }
 
 a#name:hover {
 	border: none;
   text-decoration: none;
-  color: $green_9;
+  color: #428270;
 }
 
 div#guide {
-  width: 75%;
-  height: 200px;
-  margin-left: 13%;
-  border: 1px solid #A6A29F;
-  position: relative;
+  width: 80%;
+  height: 160px;
+  margin-left: 10%;
+  border: 1px solid #E4E2E2;
+  position: absolute;
+  bottom: 160px;
   h1 {
-    color: #D3EFD4;
+    color: #32302F;
     position: absolute;
-    top: 52px;
-    left: 16px;
-    font-family: $heading-font;
-    font-size: 24px;
+    top: 65px;
+    left: 12px;
+    font-size: 21px;
+    line-height: 22px;
+    span {
+      color: #E66D4B;
+    }
   }
   h2 {
-    color: #F0D9E8;
+    color: #32302F;
     position: absolute;
-    top: 22px;
-    left: 16px;
-    font-size: 12px;
+    top: 20px;
+    left: 12px;
+    font-size: 14px;
     text-transform: uppercase;
   }
   a:link, a:visited, a:active {
-    font-size: 12px;
-    font-weight: 800;
+    width: 100%;
+    height: 100%;
     position: absolute;
-    bottom: 18px;
-    left: 16px;
-    color: #FAF1F8;
-    text-transform: uppercase;
-    color: #D3EFD4;
-    color: #F2A9D7;
+    top: 0;
+    left: 0;
+    background-color: #E4E2E2;
   }
   a:hover {
-    color: #00FFB6;
-    text-decoration: underline;
-  }
-  span {
-    color: #F0D9E8;
+      background-color: #D3EFD4;
   }
 }
 
@@ -279,18 +306,17 @@ p.nav-p {
   line-height: 16px;
 	font-weight: 500;
 	text-align: left;
-	padding: 0 20px 0 0;
+	padding: 0 0 0 0;
 	position: absolute;
-  left: 40px;
+  left: 20px;
   bottom: 30px;
-  color: $neutro_8;
+  color: #575860;
   a:link, a:visited, a:active {
-    font-weight: 500;
-    color: $neutro_8;
+    color: $gray;
     text-decoration: none;
   }
   a:hover {
-    color: $green_9;
+    color: #428270;
   }
 }
 
@@ -300,32 +326,32 @@ nav.navbar {
 }
 
 ul.nav-menu {
-		text-align: left;
-    width: 100%;
-    list-style-type: none;
-    list-style-position: outside;
-    padding: 0;
+  text-align: left;
+  width: 100%;
+  list-style-type: none;
+  list-style-position: outside;
+  padding: 0;
 }
 
 ul.nav-menu li {
-  margin: 12px 0;
-  padding: 0 0 0 20px;
+  margin: 16px 0;
+  padding: 0 0 0 8px;
 }
 
 .nav-menu li a:link,
 .nav-menu li a:visited,
 .nav-menu li a:active {
-  padding: 0px 0;
   text-decoration: none;
 	border-bottom: none;
   font-size: 18px;
+  line-height: 21px;
   font-weight: 400;
   display: block;
-  color: $green_8;
+  color: $gray;
 }
 
 .nav-menu li a:hover {
-  color: $green_9;
+  color: #428270;
 }
 /*
 .nav-menu li a.activo {
@@ -357,7 +383,7 @@ ul.nav-menu li {
     width: 20px;
     height: 2px;
     margin: 4px auto;
-		background-color: $neutro_9;
+		background-color: #444240;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -396,7 +422,7 @@ ul.nav-menu li {
 
 
 
-@media only screen and (max-width: 1180px) {
+@media only screen and (max-width: 1280px) {
   .nav-menu li a:link,
   .nav-menu li a:visited,
   .nav-menu li a:active {
@@ -404,20 +430,22 @@ ul.nav-menu li {
   }
   div#guide {
     h1 {
-      font-size: 18px;
+      font-size: 16px;
+      line-height: 18px;
     }
   }
 }
 
 
 
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 1080px) {
   sidebar {
 	   width: 100%;
 	   height: 48px;
+     z-index: 200;
   }
   a#name {
-  	top: 10px;
+  	top: 12px;
   	left: 18px;
   }
   .hamburger {
@@ -435,13 +463,24 @@ ul.nav-menu li {
     z-index: 102;
   }
   div#guide {
-    width: 70%;
+    width: 80%;
     height: 150px;
-    margin-left: 10%;
+    margin-left: 30px;
+    padding: 0 36px;
+    h1 {
+      font-size: 28px;
+      line-height: 31px;
+    }
   }
   h3 {
     font-size: 1.2em;
     margin: 80px 0 20px 0;
+  }
+  .nav-menu li a:link,
+  .nav-menu li a:visited,
+  .nav-menu li a:active {
+    font-size: 22px;
+    line-height: 26px;
   }
 }
 
@@ -485,23 +524,25 @@ ul.nav-menu li {
     line-height: auto;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 42px 0 0 0;
+    margin: 40px 0 0 0;
     color: $neutro_1;
   }
-
   h2.page-subtitle {
     font-size: 0.8rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.3px;
     color: $neutro_1;
-    margin: 40px 0 28px 0;
-  }
-  .content-top {
-    margin: 0 0 10px 0;
+    margin: 40px 0 20px 0;
   }
   .start {
     cursor: pointer;
+    background-color: $red;
+    color: #fff;
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 22px;
+    font-weight: 600;
   }
 }
 
@@ -539,10 +580,10 @@ ul.nav-menu li {
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .content-container {
-  width: 70%;
+  width: 75%;
   position: relative;
-  left: 22%;
-  z-index: 98;
+  left: 19%;
+  z-index: 99;
   padding: 0;
   overflow: hidden;
 }
@@ -560,6 +601,8 @@ ul.nav-menu li {
   flex-direction: column;
   flex-basis: 90%;
   flex: 1;
+  padding: 0 30px 0 0;
+  overflow: hidden;
 }
 
 .double-column {
@@ -613,11 +656,12 @@ dl#steps {
   margin: 30px 0 90px 0;
   h3 {
     font-family: $body-font;
-    color: $neutro_0;
-    font-size: 0.9rem;
+    color: $gray;
+    font-size: 12px;
+    letter-spacing: 1px;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 0 0 30px 0;
+    margin: 0 0 20px 0;
   }
   a:link {
     font-weight: 600;
@@ -627,14 +671,24 @@ dl#steps {
     bottom: 0;
   }
   p.c1 {
-    margin-top: 36px;
-    margin-left: 18px;
-    padding: 0 0px 0 0;
+    margin-top: 12px;
+    margin-left: 12px;
+    padding: 0 60px 0 0;
+
   }
   p.footer {
     font-size: 16px;
     line-height: 26px;
     margin: 0;
+    color: $gray;
+    span {
+      font-family: $body-font;
+      color: $gray;
+      font-size: 12px;
+      letter-spacing: 1px;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
   }
 }
 
@@ -654,12 +708,14 @@ div.quote {
   width: 100%;
   padding: 0 130px 0 90px;
   margin: 0 0 0 0;
+  position: relative;
+  z-index: 89;
   h4, h5, h6 {
     font-family: $heading-font;
     font-size: 3.2em;
     line-height: 1.2;
     font-weight: 600;
-    color: #575860;
+    color: #fff;
   }
   h5 {
     font-family: $body-font;
@@ -682,7 +738,7 @@ div.quote {
   p {
     font-size: 18px;
     line-height: 26px;
-    color: #53504D;
+    color: #fff;
     font-weight: 500;
   }
   p.grand {
@@ -855,12 +911,7 @@ a.factive:link, a.factive:active, a.factive:visited  {
 
 
 
-div.place_img {
-  width: 320px;
-  img {
-    width:100%;
-  }
-}
+
 
 .main_full_img {
   width: 100%;
@@ -880,7 +931,7 @@ div.place_img {
 }
 
 div.spacer {
-  height: 320px;
+  height: 300px;
 }
 
 div.spacer_a {
@@ -894,14 +945,25 @@ div.spacer_a {
 
 
 
+@media only screen and (max-width: 1080px) {
 
-@media only screen and (max-width: 768px) {
   .content-container {
     width: 90%;
     left: 5%;
   }
   .row {
     flex-direction: column;
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 90%;
+    flex: 1;
+    padding: 0 0 0 0;
+    overflow: hidden;
+    img {
+      width: 80%;
+    }
   }
   .archivo {
     margin: 28px 0;
@@ -919,12 +981,21 @@ div.spacer_a {
     width: 90%;
     left: 5%;
     padding: 0 0;
-    h4 {
+    h4, h4.small, h4.verysmall {
       font-size: 1.8em;
+      line-height: normal;
     }
+
   }
-  div.spacer_a {
-    height: 30px;
+  #full_bg_image {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    z-index: 1;
+    background-size: auto 100%;
+  }
+  div.spacer {
+    height: 80px;
   }
 
   div.side {
@@ -936,7 +1007,12 @@ div.spacer_a {
   div.directorio {
     width: 100%;
   }
-
+  #cover h2.page-subtitle {
+    margin: 80px 0 28px 0;
+  }
+  p.big {
+    text-align: left;
+  }
 
 }
 

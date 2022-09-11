@@ -2,7 +2,6 @@
 .animatable {
   /* initially hide animatable objects */
   visibility: hidden;
-
   /* initially pause animatable objects their animations */
   -webkit-animation-play-state: paused;
   -moz-animation-play-state: paused;
