@@ -57,6 +57,7 @@ h3::after {
 
 
 
+
 a:link, a:visited, a:active {
   color: $red;
   text-decoration: none;
@@ -618,11 +619,20 @@ ul.nav-menu li {
 
 
 div#pasos {
-  width: 80%;
+  width: 70%;
+  position: relative;
+  z-index: 90;
+  h3 {
+    font-family: $heading-font;
+    text-transform: none;
+    font-size: 4.2em;
+    line-height: 1.1em;
+    font-weight: 500;
+    margin: 30px 0 40px 0;
+  }
   a#guidepdf:link, a#guidepdf:visited, a#guidepdf:active {
     display: block;
-    background-color: $pink_pale;
-    padding: 16px 22px;
+    padding: 16px 0;
     font-weight: 600;
     font-size: 28px;
   }
@@ -634,17 +644,27 @@ div#pasos {
 dl#steps {
   margin: 28px 0;
   dt {
-    font-size: 28px;
-    font-weight: 500;
+    font-size: 22px;
+    font-weight: 600;
   }
   dd {
     margin: 0 0 42px 0;
   }
   span {
     color: #22A17E;
+    font-size: 42px;
   }
 }
 
+div#bg_green {
+  width: 77%;
+  height: 62%;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 89;
+  background-color: #DDFEF4;
+}
 
 
 
@@ -1012,6 +1032,19 @@ div.spacer_a {
   }
   p.big {
     text-align: left;
+  }
+
+
+  div#pasos {
+    width: 90%;
+    h3 {
+      font-size: 3.9em;
+      line-height: 1.1em;
+      margin: 60px 0 40px 0;
+    }
+    p {
+      margin: 22px 0;
+    }
   }
 
 }

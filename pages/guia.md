@@ -5,10 +5,14 @@ permalink: /guia/
 lang: es
 ---
 
-<h3>Pasos a seguir ante una desaparición.</h3>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=631e9d02a4cf5e001279ba71&product=inline-share-buttons" async="async"></script>
 
 
 <div id="pasos">
+
+<h3>Pasos a seguir ante una <span class="color-brick">desaparición</span>.</h3>
+
+<div class="sharethis-inline-share-buttons"></div>
 
 <dl id="steps">
 
@@ -49,3 +53,5 @@ lang: es
 <p><strong>Fuentes:</strong> Este listado de recomendaciones sobre qué hacer en caso de una desaparición resume información obtenida de entrevistas a familiares en búsqueda compiladas en este sitio, <a href="https://twitter.com/_baruc_/status/1513742106136915970?s=20&t=OLNekbg_O0KzsXF0LRqDsg" target="_blank">un hilo de Twitter escrito por Baruc Sánchez</a>, quien busca a su hermana Wendy Sánchez, desaparecida en Nayarit en el 2021 y la guía <a href="https://www.idheas.org.mx/publicaciones-idheas/guia-que-hacer-frente-a-la-desaparicion-de-una-persona/" target="_blank">“¿Qué hacer frente a la desaparición de una persona?”</a> publicado por I(dh)eas Litigio Estratégico en Derechos Humanos.</p>
 
 </div>
+
+<div id="bg_green"></div>
