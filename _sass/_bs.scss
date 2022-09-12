@@ -671,6 +671,27 @@ div#bg_green {
 
 
 
+div#about {
+  width: 80%;
+  margin-left: 10%;
+  h4 {
+    font-family: $heading-font;
+    color: #484644;
+    text-transform: none;
+    font-size: 3.6em;
+    font-weight: 500;
+    margin: 60px 0;
+  }
+  div.pink {
+    background-color: #F0E1EB;
+    padding: 60px;
+  }
+}
+
+
+
+
+
 
 .archivo {
   margin: 30px 0 90px 0;
@@ -894,8 +915,8 @@ div.line {
 
 div.side {
   position: fixed;
-  width: 20%;
-  right: 0;
+  width: 18%;
+  right: 20px;
   top: 150px;
 }
 

@@ -5,16 +5,18 @@ permalink: /credits/
 lang: es
 ---
 
+<div id="about">
+
+<h4>Proyecto: No están solas</h4>
+
+<div class="pink">
+<p><strong>No Están Solas: Saberes para la búsqueda de personas desaparecidas en México</strong>, tiene como objetivo la creación de un portal bilingüe que ofrezca un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos, familiares y buscadoras. Funcionará como un espacio productivo, práctico y de fácil acceso para socializar la información, la intercomunicación, el análisis crítico y la construcción de memoria colectiva. A través de la producción de cápsulas con colectivos y familiares, y la articulación de datos e información, este proyecto facilitará el diálogo entre aquellos que no están familiarizados y aquellos que han adquirido amplia experiencia y se han familiarizado con la realidad de la desaparición a través de las fronteras. Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan.</p>
+
+<p><strong>Este proyecto es posible gracias a la “Beca Mágica” 2021-2022 del Instituto Brown, una colaboración entre las Universidades de Columbia y Stanford; el apoyo del Centro de Estudios de México y Centroamérica y la Biblioteca de la Universidad Columbia.</strong></p>
+</div>
 
 
-<h3>Proyecto: No están solas</h3>
-
-
-<p>No Están Solas: Saberes para la búsqueda de personas desaparecidas en México, tiene como objetivo la creación de un portal bilingüe que ofrezca un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos, familiares y buscadoras. Funcionará como un espacio productivo, práctico y de fácil acceso para socializar la información, la intercomunicación, el análisis crítico y la construcción de memoria colectiva. A través de la producción de cápsulas con colectivos y familiares, y la articulación de datos e información, este proyecto facilitará el diálogo entre aquellos que no están familiarizados y aquellos que han adquirido amplia experiencia y se han familiarizado con la realidad de la desaparición a través de las fronteras. Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan.</p>
-
-<p>Este proyecto es posible gracias a la “Beca Mágica” 2021-2022 del Instituto Brown, una colaboración entre las Universidades de Columbia y Stanford; el apoyo del Centro de Estudios de México y Centroamérica y la Biblioteca de la Universidad Columbia.</p>
-
-
+<div class="spacer_a"></div>
 
 <div class="archivo animatable fadeInUp" data-color="neutro">
 <h3>Antecedentes</h3>
@@ -82,3 +84,6 @@ lang: es
   </div>
 </div><!-- /row -->
 </div><!-- /content /archivo -->
+
+
+</div> <!-- /about -->
