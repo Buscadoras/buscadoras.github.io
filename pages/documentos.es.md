@@ -9,6 +9,7 @@ lang: es
 
 <p class="intro">Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de las familias.</p>
 
+<p class="intro">Colabora <a href="#" target="_blank">Google Document</a></p>
 
 <div class="documentos">
 

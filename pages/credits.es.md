@@ -15,10 +15,9 @@ lang: es
 <p><strong>Este proyecto es posible gracias a la “Beca Mágica” 2021-2022 del Instituto Brown, una colaboración entre las Universidades de Columbia y Stanford; el apoyo del Centro de Estudios de México y Centroamérica y la Biblioteca de la Universidad Columbia.</strong></p>
 </div>
 
+<div class="spacer_b"></div>
 
-<div class="spacer_a"></div>
-
-<div class="archivo animatable fadeInUp" data-color="neutro">
+<div class="archivo" data-color="neutro">
 <h3>Antecedentes</h3>
 <p>La idea del Proyecto surge a partir de la creación de La Unidad de Investigación de Buscadoras (BRU) creada en el otoño de 2020 por el profesor Claudio Lomnitz junto con los estudiantes de posgrado Greg Odum y Mónica Trigos, y la profesora Mónica Castillejos de la Facultad de Derecho de la Universidad de California-Berkeley. La BRU es un equipo de estudiantes y profesores voluntarios, organizado con el objetivo de apoyar a las organizaciones de personas desaparecidas que operan en México y Centroamérica en la actualidad. La Unidad de Investigación dedicó sus esfuerzos a desarrollar una investigación mutuamente productiva en colaboración con un colectivo mexicano de familiares de personas desaparecidas y desaparecidas, “Regresando a Casa Morelos”, al ofrecer el tiempo, las habilidades y las perspectivas de los estudiantes voluntarios para ayudar con una variedad de de investigación y necesidades educativas. La BRU junto con el Centro de Estudios Mexicanos organizaron una amplia conferencia de 3 días con organizaciones solidarias, colectivos familiares, investigadores y periodistas para compartir sus diversos proyectos sobre este tema y fortalecer redes de colaboración y aumentar el interés público.</p>
 </div>

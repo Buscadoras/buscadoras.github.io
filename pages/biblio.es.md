@@ -15,9 +15,9 @@ lang: es
   <a href="#" class="tag" data-filter=".film">Filme</a>
   <a href="#" class="tag" data-filter=".podcast">Podcast</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
+
+<p>Colabora <a href="#" target="_blank">Google Document</a></p>  
 </div>
-
-
 
 <div class="directorio">
 {% assign row = site.data.biblio_es %}
