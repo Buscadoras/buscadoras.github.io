@@ -5,7 +5,7 @@ permalink: /documentos/
 lang: es
 ---
 
-<h3>Documentos.</h3>
+<h3>Documentos</h3>
 
 <p class="intro">Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de las familias.</p>
 

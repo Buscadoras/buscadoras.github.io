@@ -35,9 +35,9 @@ h2 {
 
 h3 {
   font-family: $body-font;
-  font-size: 1.6em;
+  font-size: 1.2em;
   font-weight: 800;
-  margin: 40px 0 40px 0;
+  margin: 60px 0 60px 0;
   color: #484644;
   text-transform: uppercase;
   display: inline-block;
@@ -896,23 +896,32 @@ div.side {
   position: fixed;
   width: 20%;
   right: 0;
-  top: 120px;
+  top: 150px;
 }
 
 
 a.tag:link, a.tag:active, a.tag:visited {
-  background-color: #22A17E;
-  color: #fff;
-  padding: 8px 12px;
+  //background-color: #22A17E;
+  border: 1px solid #428270;
+  color: #428270;
+  padding: 6px 8px;
   border-radius: 8px;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   display: inline-block;
   margin: 6px 0;
 }
 
+a.tag:hover {
+  background-color: #DDFEF4;
+  transition: background-color 1s ease;
+}
+
 a.factive:link, a.factive:active, a.factive:visited  {
-    background-color: $gray;
+    background-color: #428270;
+    color: #fff;
 }
 
 

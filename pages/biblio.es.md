@@ -5,7 +5,7 @@ permalink: /biblio/
 lang: es
 ---
 
-<h3>Bibliografía selecta.</h3>
+<h3>Bibliografía selecta</h3>
 
 
 <div class="side">
