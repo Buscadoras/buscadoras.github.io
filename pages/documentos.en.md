@@ -7,7 +7,10 @@ lang: en
 
 <h3>Documents.</h3>
 
-<p class="intro">About this documents. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed risus non sapien consectetur vulputate. Donec sit amet dapibus ex. Fusce ullamcorper porttitor diam, at egestas purus hendrerit in. Donec et ultricies nulla, eget semper nisl.</p>
+<div class="directorio">
+<p class="intro">Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de las familias.</p>
+</div>
+
 
 <div class="documentos">
 
@@ -17,7 +20,7 @@ lang: en
 <div class="row animatable fadeInUp">
 
 <div class="column">
-  <img src="../../assets/documents_covers/doc{{pair["orden"]}}.png"/>
+  <img src="https://bulabe.com/buscadoras/documents_covers/doc{{pair["orden"]}}.png"/>
 </div>
 
 <div class="double-column">
@@ -25,12 +28,11 @@ lang: en
 
   <p>{{ pair["summaryEN"] }}</p><br/>
 
-  <p><strong>Tipo de documento:</strong> {{ pair["document_ type"] }}</p>
-  <p><strong>Dirigido a:</strong> {{ pair["intended_audience"] }}</p>
-  <p><strong>Creado por:</strong> {{ pair["creator_s"] }}, {{ pair["year"] }}</p><br/>
+  <p><strong>Type:</strong> {{ pair["document_ type"] }}</p>
+  <p><strong>Audience:</strong> {{ pair["intended_audience"] }}</p>
+  <p><strong>Author(s):</strong> {{ pair["creator_s"] }}, {{ pair["year"] }}</p><br/>
 
-  <p><a href="{{ pair["source"] }}" target="_blank" class="web">Source</a></p>
-  <span class="tag"># {{ pair["document_category"] }}</span>
+  <p><a href="https://bulabe.com/buscadoras/documents_pdfs/doc{{pair["orden"]}}.pdf" target="_blank" class="web">Descarga el documento [PDF]</a></p>
 </div>
 
 

@@ -37,7 +37,7 @@ h3 {
   font-family: $body-font;
   font-size: 1.2em;
   font-weight: 800;
-  margin: 40px 0 40px 0;
+  margin: 40px 0 30px 0;
   color: #484644;
   text-transform: uppercase;
   display: inline-block;
@@ -80,7 +80,7 @@ p.big {
   font-size: 18px;
   line-height: 26px;
   margin: 0 0 12px 0;
-  padding: 0 240px 0 0;
+  padding: 0 160px 0 0;
   text-align: justify;
 }
 
@@ -267,26 +267,27 @@ div#guide {
   width: 80%;
   height: 160px;
   margin-left: 10%;
-  border: 1px solid #E4E2E2;
   position: absolute;
-  bottom: 160px;
+  top: 350px;
   h1 {
-    color: #32302F;
+    color: #fff;
     position: absolute;
-    top: 65px;
+    top: 50px;
     left: 12px;
-    font-size: 21px;
-    line-height: 22px;
+    font-size: 22px;
+    line-height: 26px;
     span {
-      color: #E66D4B;
+      color: #00FFB6;
     }
   }
   h2 {
-    color: #32302F;
+    color: #fff;
     position: absolute;
     top: 20px;
     left: 12px;
-    font-size: 14px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 600;
     text-transform: uppercase;
   }
   a:link, a:visited, a:active {
@@ -295,29 +296,33 @@ div#guide {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #E4E2E2;
+    background-color: #008A80;
   }
   a:hover {
-      background-color: #D3EFD4;
+      background-color: #337358;
   }
 }
 
-p.nav-p {
+p#lang {
 	font-size: 14px;
   line-height: 16px;
 	font-weight: 500;
 	text-align: left;
-	padding: 0 0 0 0;
+	padding: 0 0 0 6px;
 	position: absolute;
   left: 20px;
-  bottom: 30px;
+  bottom: 50px;
   color: #575860;
   a:link, a:visited, a:active {
     color: $gray;
     text-decoration: none;
+    border-color: 1px solid #fff;
+    padding: 6px;
+    border-radius: 6px;
+    margin: 0 4px 0 0;
   }
   a:hover {
-    color: #428270;
+    color: #32302F;
   }
 }
 
@@ -341,7 +346,8 @@ ul.nav-menu li {
 
 .nav-menu li a:link,
 .nav-menu li a:visited,
-.nav-menu li a:active {
+.nav-menu li a:active,
+a#about:link, a#about:visited, a#about:active {
   text-decoration: none;
 	border-bottom: none;
   font-size: 18px;
@@ -351,9 +357,19 @@ ul.nav-menu li {
   color: $gray;
 }
 
-.nav-menu li a:hover {
+.nav-menu li a:hover,
+a#about:hover {
   color: #428270;
 }
+
+a#about:link, a#about:visited, a#about:active {
+  position: relative;
+  top: 210px;
+  left: 24px;
+}
+
+
+
 /*
 .nav-menu li a.activo {
   color: $green_0;
@@ -459,14 +475,15 @@ ul.nav-menu li {
   }
   nav.navbar,
   p.nav-p,
-  div#guide {
+  div#guide,
+  a#about:link  {
     display: none;
     z-index: 102;
   }
   div#guide {
-    width: 80%;
+    width: 60%;
     height: 150px;
-    margin-left: 30px;
+    margin: 20px 0 0 20px;
     padding: 0 36px;
     h1 {
       font-size: 28px;
@@ -632,9 +649,9 @@ div#pasos {
   }
   a#guidepdf:link, a#guidepdf:visited, a#guidepdf:active {
     display: block;
-    padding: 16px 0;
+    padding: 22px 0;
     font-weight: 600;
-    font-size: 28px;
+    font-size: 22px;
   }
   p {
     margin: 42px 0;
@@ -684,7 +701,7 @@ div#about {
   }
   div.pink {
     background-color: #F0E1EB;
-    padding: 40px;
+    padding: 40px 60px;
   }
 
 }
@@ -918,11 +935,12 @@ div.side {
   position: fixed;
   width: 18%;
   right: 20px;
-  top: 120px;
+  top: 180px;
   p {
     display: block;
     margin: 20px 0 0 0;
     font-size: 16px;
+    line-height: 21px;
   }
 }
 

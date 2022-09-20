@@ -5,18 +5,21 @@ permalink: /biblio/
 lang: es
 ---
 
-<h3>Bibliografía selecta</h3>
+<h3>Materiales de lectura</h3>
 
+<div class="directorio">
+<p class="intro">Una selección de materiales de lectura, trabajos periodísticos, análisis académicos, poesía, películas, proyectos multimedia, que funciona como introducción al contexto en México, la desaparición y la búsqueda.</p>
+</div>
 
 <div class="side">
   <a href="#" class="tag factive" data-filter="all">Mostrar todo</a>
-  <a href="#" class="tag" data-filter=".libro">Libro</a>
-  <a href="#" class="tag" data-filter=".investigativejournalism">Investigative Journalism</a>
-  <a href="#" class="tag" data-filter=".film">Filme</a>
+  <a href="#" class="tag" data-filter=".libro">Libros</a>
+  <a href="#" class="tag" data-filter=".periodismo">Periodismo de investigación</a>
+  <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>
   <a href="#" class="tag" data-filter=".podcast">Podcast</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
 
-<p>Colabora <a href="#" target="_blank">Google Document</a></p>  
+<p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
 </div>
 
 <div class="directorio">

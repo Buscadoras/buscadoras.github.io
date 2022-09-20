@@ -7,9 +7,11 @@ lang: es
 
 <h3>Documentos</h3>
 
+<div class="directorio">
 <p class="intro">Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de las familias.</p>
+</div>
 
-<p class="intro">Colabora <a href="#" target="_blank">Google Document</a></p>
+<p class="intro"><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>
 
 <div class="documentos">
 

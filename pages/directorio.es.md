@@ -8,18 +8,24 @@ lang: es
 <h3>Directorio</h3>
 
 
-<div class="side">
-  <a href="#" class="tag factive" data-filter="all">Mostrar todo</a>
-  <a href="#" class="tag" data-filter=".Colectivo">Colectivo</a>
-  <a href="#" class="tag" data-filter=".Journalism">Journalism</a>
-  <a href="#" class="tag" data-filter=".NGO">NGO</a>
-  <a href="#" class="tag" data-filter=".InternationalOrganization">International Organization</a>
-  <a href="#" class="tag" data-filter=".Solidarity">Solidarity</a>
-  <a href="#" class="tag" data-filter=".Academia">Academia</a>
-  <a href="#" class="tag" data-filter=".LocalGovernment">Local Government</a>
-  <a href="#" class="tag" data-filter=".FederalGovernment">Federal Government</a>
+<div class="directorio">
+<p class="intro">Una base de datos con la información de contacto de colectivos, organizaciones de sociedad civil, organismos internacionales e instituciones de gobierno, para facilitar la conexión, comunicación y acceso a la información.</p>
 </div>
 
+
+<div class="side">
+  <a href="#" class="tag factive" data-filter="all">Mostrar todo</a>
+  <a href="#" class="tag" data-filter=".colectivo">Colectivo</a>
+  <a href="#" class="tag" data-filter=".Journalism">Periodismo</a>
+  <a href="#" class="tag" data-filter=".NGO">NGO</a>
+  <a href="#" class="tag" data-filter=".InternationalOrganization">Organización internacional</a>
+  <a href="#" class="tag" data-filter=".Solidarity">Solidaridad</a>
+  <a href="#" class="tag" data-filter=".Academia">Academia</a>
+  <a href="#" class="tag" data-filter=".LocalGovernment">Gobierno local</a>
+  <a href="#" class="tag" data-filter=".FederalGovernment">Gobierno federal</a>
+
+  <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
+</div>
 
 
 <div class="directorio">
@@ -27,13 +33,12 @@ lang: es
 {% assign row = site.data.directory %}
 {% for pair in row %}
 
-
 <!-- <div class="line animatable fadeInUp {{ pair["type"] }} {{ pair["country"] }}">-->
 <div class="line {{ pair["type"] }} {{ pair["country"] }}">
 
   <h2>{{ pair["nombre"] }}</h2>
 
-  <p><strong>{{ pair["type"] }}</strong></p>
+<!--  <p><strong>{{ pair["type"] }}</strong></p>-->
   <p><strong>País:</strong> {{ pair["country"] }}</p>
 
   {% if pair["state"] != null %}

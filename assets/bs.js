@@ -44,16 +44,13 @@ var scroll = $(window).scrollTop();
     $('#full_bg_image').fadeIn();
   } else {
     $('#full_bg_image').fadeOut();
-
   }
-
   if (scroll >= min) {
     $('#top').fadeIn();
   } else {
     $('#top').fadeOut();
   }
 };
-
 
 
 
@@ -109,12 +106,11 @@ $(document).ready(function() {
           height: "100%",
         }, 600, function(){
           $("nav.navbar").fadeIn(200);
-          $(".nav-p").fadeIn(400);
-          $("#guide").fadeIn(400);
+          $("a#about:link, p#lang, #guide").fadeIn(400);
           turn=0;
         });
       } else {
-        $("nav.navbar, .nav-p, #guide").fadeOut(200, function(){
+        $("nav.navbar, a#about:link, p#lang, #guide").fadeOut(200, function(){
           $("sidebar").animate({
             height: "48px",
           }, 600, function(){

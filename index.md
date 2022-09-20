@@ -11,7 +11,7 @@ lang: es
   <div class="content-top">
     <h1>Saberes para <br>la búsqueda de <br><span class="color-brick">personas desaparecidas</span><br>en México<span class="color-brick">.</span></h1>
 
-    <p class="big"><span style="color:#428270; font-weight:600;">No Están Solas</span> es un proyecto multidisciplinario de la <span style="font-weight:600;">Universidad de Columbia</span> con el objetivo de ofrecer un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos y familiares.</p>
+    <p class="big"><span style="color:#428270; font-weight:600;">No Están Solas</span> es un proyecto multidisciplinario que surge en la <span style="font-weight:600;">Universidad de Columbia</span> con el objetivo de ofrecer un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos y familiares.</p>
 
     <p class="big">Buscamos brindar un espacio productivo, colaborativo y práctico para socializar información, ofrecer análisis crítico y construir memoria colectiva.</p>
 
@@ -37,7 +37,7 @@ lang: es
 <div class="quote animatable fadeInUp"><div class="content-container">
 <h4>“Creo que con el paso del tiempo lamentablemente te das cuenta que si no buscas tú, nadie lo va a hacer.”</h4>
 <h5>– Tranquilina Hernández Lagunes.</h5>
-<p>En México hay <span style="font-weight:600; color:#E66D4B;">+100,000</span> personas desaparecidas según números oficiales, la mayoría de los casos se dieron desde el comienzo de la guerra contra los cárteles de las drogas en 2006. La inacción y omisión de las autoridades, el estancamiento burocrático y la impunidad han llevado a las familias a tomar el asunto en sus propias manos para buscar y lograr encontrar a sus seres queridos. </p>
+<p>En México, para mediados del 2022, hay <span style="font-weight:600; color:#E66D4B;">+100,000</span> personas desaparecidas según <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank">números oficiales</a>, la mayoría de los casos se dieron desde el comienzo de la guerra contra los cárteles de las drogas en 2006. La inacción y omisión de las autoridades, el estancamiento burocrático y la impunidad han llevado a las familias a tomar el asunto en sus propias manos para buscar y lograr encontrar a sus seres queridos. </p>
 </div></div><!-- quote content-container -->
 
 
@@ -177,17 +177,17 @@ lang: es
 <div class="row">
   <div class="column">
     <h3>Documentos</h3>
-    <p>Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de los familiares.</p><br/>
+    <p>Una compilación de herramientas bibliográficas y documentos sobre la búsqueda: leyes, protocolos, guías, testimonios e historias de búsqueda.</p><br/>
     <a href="{{ '/documentos/' | absolute_url }}" class="bottom">Consultar</a>
   </div>
   <div class="column">
-    <h3>Bibliografía</h3>
-    <p>Una selección de literatura, trabajo periodístico, análisis académico, poesía, películas, proyectos multimedia, que funciona como introducción al contexto en México, la desaparición y la búsqueda.</p><br/>
+    <h3>Materiales de lectura</h3>
+    <p>Una selección de trabajo periodístico, análisis académico, poesía, películas y proyectos multimedia, como introducción a la desaparición y la búsqueda.</p><br/>
     <a href="{{ '/recursos/' | absolute_url }}" class="bottom">Consultar</a>
   </div>
   <div class="column">
     <h3>Directorio</h3>
-    <p>Una base de datos con la información de contacto de colectivos, organizaciones de sociedad civil, organismos internacionales e instituciones de gobierno, para facilitar la conexión, comunicación y acceso a la información.</p><br/>
+    <p>Contacto de colectivos, organizaciones de sociedad civil, organismos internacionales e instituciones de gobierno, para facilitar la conexión.</p><br/>
     <a href="{{ '/directorio/' | absolute_url }}" class="bottom">Consultar</a>
   </div>  
 </div>
