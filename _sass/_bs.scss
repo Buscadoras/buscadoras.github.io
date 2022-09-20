@@ -1341,8 +1341,11 @@ item pages (iiif + metadata)
 
 #handlers {
   position: fixed;
-  top: 20px;
+  top: 40%;
   right: 120px;
+  background-color: #CAC6C5;
+  border-radius: 8px;
+  padding: 0 22px;
 }
 #prevlink {
   float:left;
@@ -1350,7 +1353,6 @@ item pages (iiif + metadata)
 .nextlink {
   float: right;
 }
-
 .item-label {
   margin: 40px 0 0px 0;
 }
@@ -1362,8 +1364,6 @@ item pages (iiif + metadata)
   justify-content: space-between;
   align-items:     center;
   margin-left:     -5%;
-
-
 
   .image-viewer {
     position: relative;
@@ -1422,6 +1422,8 @@ item pages (iiif + metadata)
   dt {
     font-size: 0.8rem;
     font-weight: 800;
+    text-transform: uppercase;
+    margin: 12px 0 6px 0;
   }
 }
 
@@ -1481,18 +1483,17 @@ search box
       @extend .btn-outline-secondary;
       margin-right: .5em;
       margin-top: 1rem;
-      background-color: #D3EFD4;
-      color: #6c757d;
-      border: none;
-      font-size: 14px;
+      border: 1px solid #428270;
+      color: #428270;
+      font-size: 12px;
       font-weight: 600;
+      letter-spacing: 1px;
       text-transform: uppercase;
     }
     .active{
       @extend .facet;
-      border-style: solid;
-      border: gray;
-
+      background-color: red;
+      color: #fff;
     }
   }
   .wax-gallery {
@@ -1504,11 +1505,10 @@ search box
 
     .gallery-item {
       padding: 0;
-      margin: .25rem;
+      margin: 0 12px 12px 0;
       background-color: #ffffff;
       max-height: $thumbnail-height;
       max-width: $thumbnail-width;
-      border: 1px $neutro_9 solid;
 
       .gallery-thumb {
         object-position: 50% 20%;
@@ -1552,8 +1552,9 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: 600;
-          font-size: 1rem;
-          line-height: 1rem;
+          font-size: 22px;
+          line-height: 32px;
+          color: #00FFB6;
           overflow: hidden;
           display: table-cell;
           padding: 1.5rem;
@@ -1583,7 +1584,7 @@ search box
           overflow: hidden;
           top: 0;
           left: 0;
-          background-color: $green_8;
+          background-color: #161616;
           opacity: 0;
           -webkit-transition:opacity 0.5s ease-in-out;
           transition: opacity 0.5s ease-in-out;

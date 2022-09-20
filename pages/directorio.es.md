@@ -7,11 +7,9 @@ lang: es
 
 <h3>Directorio</h3>
 
-
 <div class="directorio">
 <p class="intro">Una base de datos con la información de contacto de colectivos, organizaciones de sociedad civil, organismos internacionales e instituciones de gobierno, para facilitar la conexión, comunicación y acceso a la información.</p>
 </div>
-
 
 <div class="side">
   <a href="#" class="tag factive" data-filter="all">Mostrar todo</a>
@@ -26,7 +24,6 @@ lang: es
 
   <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
 </div>
-
 
 <div class="directorio">
 

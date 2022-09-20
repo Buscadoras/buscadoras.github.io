@@ -6,7 +6,7 @@ layout: default
   The block below controls the image viewer
 {% endcomment %}
 
-<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.interviewee }}.</h3>
+<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.interviewee }}</h3>
 
 <div id="handlers">
 <span class='pagination-link' id='prevlink'></span>
@@ -31,14 +31,12 @@ layout: default
 {% endif %}
 
 
-
 <p>Escucha la entrevista:</p>
 <audio controls>
   <!--<source src="{{site.baseurl}}/assets/entrevistas/{{page.pid}}.mp3" type="audio/mpeg">-->
   <source src="https://bulabe.com/buscadoras/entrevistas/{{page.pid}}.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
 
 {% comment %}
   The block below controls the item metadata table

@@ -407,7 +407,7 @@ item pages (iiif + metadata)
   }
 
 
-  
+
 }
 
 .metadata-block {
@@ -477,9 +477,6 @@ search box
       font-family: $body-font;
       border-color: none;
       letter-spacing: 1px;
-
-      
-
     }
     .active{
       @extend .facet;
@@ -499,7 +496,7 @@ search box
       background-color: #ffffff;
       max-height: $thumbnail-height;
       max-width: $thumbnail-width;
-      border: 1px grey solid;
+
 
       .gallery-thumb {
         object-position: 50% 20%;
@@ -574,12 +571,12 @@ search box
           overflow: hidden;
           top: 0;
           left: 0;
-          background-color: $accent-light;
+          background-color: $gray;
           opacity: 0;
           -webkit-transition:opacity 0.5s ease-in-out;
           transition: opacity 0.5s ease-in-out;
           display: table;
-          height: 200px;
+          height: 100%;
         }
       }
     }

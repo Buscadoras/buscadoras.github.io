@@ -7,4 +7,4 @@ lang: es
 
 <h3>Testimonios orales</h3>
 
-{% include collection_gallery.html collection='entrevistas' facet_by='location_region' %}
+{% include collection_gallery.html collection='entrevistas' facet_by='location_state' %}
