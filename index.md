@@ -5,18 +5,13 @@ permalink: /
 lang: es
 ---
 
-
 <div id="cover" class="content-container panel">
   <h2 class="page-subtitle">Información • Análisis crítico • Memoria colectiva</h2>
   <div class="content-top">
     <h1>Saberes para <br>la búsqueda de <br><span class="color-brick">personas desaparecidas</span><br>en México<span class="color-brick">.</span></h1>
-
     <p class="big"><span style="color:#428270; font-weight:600;">No Están Solas</span> es un proyecto multidisciplinario que surge en la <span style="font-weight:600;">Universidad de Columbia</span> con el objetivo de ofrecer un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos y familiares.</p>
-
     <p class="big">Buscamos brindar un espacio productivo, colaborativo y práctico para socializar información, ofrecer análisis crítico y construir memoria colectiva.</p>
-
-    <p class="big">Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan. <span class="start">↓</span>
-    </p>
+    <p class="big">Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan. <span class="start">↓</span></p>
   </div><!-- content -->
 </div><!-- cover -->
 
@@ -31,8 +26,6 @@ lang: es
 -->
 
 <div class="spacer"></div>
-
-
 
 <div class="quote animatable fadeInUp"><div class="content-container">
 <h4>“Creo que con el paso del tiempo lamentablemente te das cuenta que si no buscas tú, nadie lo va a hacer.”</h4>
@@ -83,13 +76,11 @@ lang: es
 
 
 
-
 <div class="quote animatable fadeInUp"><div class="content-container">
 <p>En todo <span class="color-brick" style="font-weight:600;">México</span> y en países vecinos las familias han organizado <span style="font-weight:600;">colectivos</span>, principalmente compuestos por mujeres, desarrollando métodos de búsqueda, abogando por cambios institucionales y apoyando a quienes enfrentan una desaparición, para encontrar, ya no solo a los suyos.</p>
 <h4>“Desde el primer día que yo salí a buscar a mi hijo adopté a todos los desaparecidos como si fueran uno solo.”</h4>
 <h5>– Cecilia Patricia Flores Armenta.</h5>
 </div></div><!-- quote content-container -->
-
 
 
 

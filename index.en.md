@@ -5,65 +5,47 @@ permalink: /
 lang: en
 ---
 
-
 <div id="cover" class="content-container panel">
-  <h2 class="page-subtitle">Información • Análisis crítico • Memoria colectiva</h2>
+  <h2 class="page-subtitle">Practical Knowledge • Critical Analysis • Collective Memory</h2>
   <div class="content-top">
   <h1>Bridging the search<br/>
   for <span class="color-brick">the disappeared</span><br>
   in Mexico.</h1>
 
-    <p class="big"><span style="color:#428270; font-weight:600;">No Están Solas</span> es un proyecto multidisciplinario de la <span style="font-weight:600;">Universidad de Columbia</span> con el objetivo de ofrecer un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos y familiares.</p>
-
-    <p class="big">Buscamos brindar un espacio productivo, colaborativo y práctico para socializar información, ofrecer análisis crítico y construir memoria colectiva.</p>
-
-    <p class="big">Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan. <span class="start">↓</span>
-    </p>
+  <p class="big"><span style="color:#428270; font-weight:600;">They are not alone</span> is a multidisciplinary project from Columbia University with the objective of offering a set of pedagogical and informative tools to support the collective response to widespread disappearance in Mexico, and the work of collectives and family members engaged in the search.</p>
+  <p class="big">We seek to offer a productive, collaborative and practical space to socialize information, offer critical analysis, and construct collective memory.</p>
+  <p class="big">Finally, we aim to respond to a pressing need for cross-border coordination between organizations, knowledge-producing institutions, and the people searching for the disappeared. <span class="start">↓</span></p>
   </div><!-- content -->
 </div><!-- cover -->
 
 
 
 <div id="full_bg_image"></div>
-<!--
-<div id="carousel"><ul>
-<li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li>
-</ul>
-</div>
--->
 
 <div class="spacer"></div>
 
-
-
 <div class="quote animatable fadeInUp"><div class="content-container">
-<h4>“Creo que con el paso del tiempo lamentablemente te das cuenta que si no buscas tú, nadie lo va a hacer.”</h4>
+<h4>“I think that with the passage of time, unfortunately, you realize that if you don't search, no one else will.”</h4>
 <h5>– Tranquilina Hernández Lagunes.</h5>
-<p>En México hay <span style="font-weight:600; color:#E66D4B;">+100,000</span> personas desaparecidas según números oficiales, la mayoría de los casos se dieron desde el comienzo de la guerra contra los cárteles de las drogas en 2006. La inacción y omisión de las autoridades, el estancamiento burocrático y la impunidad han llevado a las familias a tomar el asunto en sus propias manos para buscar y lograr encontrar a sus seres queridos. </p>
+<p>In Mexico <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank">official numbers</a> of missing persons have surpassed <span style="font-weight:600; color:#E66D4B;">100,000</span>, most of which having occurred since the beginning of the war against drug cartels in 2006. The inaction and neglect of authorities, bureaucratic stagnation and impunity have led families to take matters into their own hands to search for and succeed in finding their loved ones.</p>
 </div></div><!-- quote content-container -->
-
 
 
 <div class="spacer"></div>
 
 
-
-
 <div class="quote animatable fadeInUp"><div class="content-container">
-<h4>“Uno no vive, uno sobrevive por verlos regresar o por verlos volver a casa y abrazarlos nuevamente.”</h4>
+<h4>“One does not live, one survives to see them return or to see them come home and embrace them again.”</h4>
 <h5>– Martha Leticia García Cruz.</h5>
-<p>Esto sucede en un contexto de violencia que no se detiene y en un país de tránsito y destino de personas en movimiento.</p>
+<p>This tragic reality is unfolding in a context of unrelenting violence in a country that is transit and destination of people on the move.</p>
 </div></div><!-- quote content-container -->
-
-
 
 
 <div class="spacer"></div>
 
 
-
 <div class="quote animatable fadeInUp"><div class="content-container">
-<h4>“Ha sido muy duro, muy duro, estar buscando y encontrar gente que dice: no busques más porque no lo encontrarás. Pero aquí estamos. No pierdo la fe y pues hasta encontrarlos a él y a todos.”</h4>
+<h4>“It has been very hard, very hard, to be searching and to find people who say "don't look anymore because you won't find them". But here we are. I will not lose faith until… well, until we find him and everyone.”</h4>
 <h5>– Zuseth Adriana Heraz Amador.</h5>
 </div></div><!-- quote content-container -->
 
@@ -74,59 +56,39 @@ lang: en
 
 
 <div class="quote animatable fadeInUp"><div class="content-container">
-<h4 class="small">“Desde el momento que yo decidí salir a las calles a buscar a mi hijo, fue a denunciar, a visibilizar por todos lados y no me he quedado callada. Es alzar la voz, gritar por todos lados, que escuchen, que se sepa lo que está pasando con las personas migrantes.”</h4>
+<h4 class="small">“From the moment that I decided to take to the streets to look for my son, it was to make it known, to make it visible everywhere and that I have not remained silent. It is to raise my voice, to shout everywhere, to make them listen, to let them know what is happening to migrants.”</h4>
 <h5>– Ana Enamorado (Honduras).</h5>
 </div></div><!-- quote content-container -->
-
-
 
 
 <div class="spacer"></div>
 
 
-
-
 <div class="quote animatable fadeInUp"><div class="content-container">
-<p>En todo <span class="color-brick" style="font-weight:600;">México</span> y en países vecinos las familias han organizado <span style="font-weight:600;">colectivos</span>, principalmente compuestos por mujeres, desarrollando métodos de búsqueda, abogando por cambios institucionales y apoyando a quienes enfrentan una desaparición, para encontrar, ya no solo a los suyos.</p>
+<p>Throughout <span class="color-brick" style="font-weight:600;">Mexico</span> and in neighboring countries, families have organized themselves into <span class="color-brick" style="font-weight:600;">collectives</span>, mainly composed of women, and are developing search methods, advocating for institutional changes and supporting those facing disappearance, to find those who have disappeared, not just their own loved ones.</p>
 <h4>“Desde el primer día que yo salí a buscar a mi hijo adopté a todos los desaparecidos como si fueran uno solo.”</h4>
 <h5>– Cecilia Patricia Flores Armenta.</h5>
 </div></div><!-- quote content-container -->
 
 
 
-
-
 <div class="spacer"></div>
 
 
-
 <div class="quote animatable fadeInUp"><div class="content-container">
-<p>Las buscadoras se han convertido en las principales agentes de cambio, resiliencia, experiencia y conocimiento alrededor del fenómeno de la desaparición y búsqueda en <span class="color-brick" style="font-weight:600;">México</span>.</p>
-<h4>“Ya tenemos más herramientas para poder buscar. Ya tenemos más herramientas para poder exigir nuestros derechos y para poder ayudar a las demás que están como nosotros.”</h4>
+<p>These searchers, or buscadoras, have become the main agents of change, bringing their resilience, along with their experience and knowledge around disappearance and searching, to the collective movement in <span class="color-brick" style="font-weight:600;">México</span>.</p>
+<h4>“Now we have more tools to be able to search. Now we have more tools to be able to demand our rights and to be able to help others who are like us.”</h4>
 <h5>– Leticia Sandoval Zúñiga.</h5>
 </div></div><!-- quote content-container -->
 
 
-
-
 <div class="spacer"></div>
 
 
-
-
 <div class="quote animatable fadeInUp"><div class="content-container">
-<h4 class="verysmall">“En la medida en que logremos, como familiares, concientizar a más población iremos logrando que haya más empatía y también iremos generando mayores estrategias, no solo de manera personal, sino también colectivas, para cuidarnos. Para auto-protegernos. Vamos politizándonos y eso nos da no sólo una conciencia más madura, sino una conciencia política que nos ayuda a pensar.”</h4>
+<h4 class="verysmall">“To the extent that we achieve, as family members, to raise awareness among more of the population, we will generate more empathy and we will also create more strategies, not just personally, but also collectively, to take care of ourselves. To protect ourselves. We are becoming politicized, and that gives us not only a conscience that is more mature, but also a political conscience that helps us think.”</h4>
 <h5>– Laura María Orozco.</h5>
 </div></div><!-- quote content-container -->
-
-
-
-
-
-
-
-
-
 
 
 
@@ -134,94 +96,49 @@ lang: en
 <div class="spacer"></div>
 
 
-<!--
-<div class="content-container">
-<div class="archivo animatable moveUp">
-<h3>Saberes prácticos</h3>
-<div class="row">
-  <div class="column">  
-    <div class="place_img"><img src="assets/images/in_tools.png"></div>
-  </div>
-
-  <div class="double-column">
-    <p class="c1"><span style="color:#428270; font-weight:600;">7 cápsulas</span> pedagógicas e informativas relatadas por familiares de personas desaparecidas compartiendo sus saberes sobre la desaparición y la búsqueda. Desde los primeros pasos en la desaparición; la búsqueda en sentido práctico (métodos, herramientas, la identificación) y en sentido personal (emocional y vivencial); el actuar en colectivo, la recolección de información y documentación; hasta la relación con autoridades; la seguridad y el contexto de violencia.</p>
-    <a href="{{ '/tools/' | absolute_url }}" style="margin-left:18px;">Ver cápsulas</a>
-  </div>
-
-</div>
-</div></div><!-- content-container -->
-
-
-
-
 
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
-<h3 class="bg">Testimonios orales</h3>
+<h3 class="bg">Oral Testimonies</h3>
 <div class="row">
   <div class="column">
     <img src="../assets/images/in_testimonios.jpg">
   </div>
   <div class="double-column">
-    <p class="c1"><span style="color:#308F67; font-weight:600;">60 entrevistas</span> en 12 estados con madres, abuelas, tías, hermanas, esposas, hijas, hijos, padres y hermanos que buscan a sus seres queridos desaparecidos en México. Una compilación personal sobre el antes y el después de la desaparición, el significado de la búsqueda y la transformación del miedo en fuerza y esperanza para encontrarles.</p>
-    <a href="{{ '/testimonios/' | absolute_url }}" style="margin-left:12px;">Leer más</a>
+    <p class="c1"><span style="color:#308F67; font-weight:600;">60 interviews</span> with mothers, grandmothers, aunts, sisters, wives, daughters, fathers, brothers and sons from 12 different states in Mexico who are searching for their missing loved ones. A personal compilation of experiences before and after cases of disappearance, the meaning of searching, and the transformation of fear into strength and the hope to find those who are missing.</p>
+    <a href="{{ '/testimonios/' | absolute_url }}" style="margin-left:12px;">Read more</a>
   </div>
 </div><!-- /row -->
 </div></div><!-- /content /archivo -->
 
 
 
-
-
-
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
 <div class="row">
   <div class="column">
-    <h3>Documentos</h3>
-    <p>Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de los familiares.</p><br/>
-    <a href="{{ '/documentos/' | absolute_url }}" class="bottom">Consultar</a>
+    <h3>Resources</h3>
+    <p>A selection of literature, journalistic work, academic analysis, poetry, films, multimedia projects, which serves as an introduction to the context of disappearance and the search in Mexico.</p><br/>
+    <a href="{{ '/documentos/' | absolute_url }}" class="bottom">Read more</a>
   </div>
   <div class="column">
-    <h3>Bibliografía</h3>
-    <p>Una selección de literatura, trabajo periodístico, análisis académico, poesía, películas, proyectos multimedia, que funciona como introducción al contexto en México, la desaparición y la búsqueda.</p><br/>
+    <h3>Reference Material</h3>
+    <p>A compilation tools and documents for searching, as well as voices from the search, including: laws, government protocols, basic guides, testimonies and stories of the search that is carried out by civil society organizations and international agencies working hand in hand with family members.</p><br/>
     <a href="{{ '/recursos/' | absolute_url }}" class="bottom">Consultar</a>
   </div>
   <div class="column">
-    <h3>Directorio</h3>
-    <p>Una base de datos con la información de contacto de colectivos, organizaciones de sociedad civil, organismos internacionales e instituciones de gobierno, para facilitar la conexión, comunicación y acceso a la información.</p><br/>
-    <a href="{{ '/directorio/' | absolute_url }}" class="bottom">Consultar</a>
+    <h3>Directory</h3>
+    <p>A database with contact information for collectives, civil society organizations, international organizations and government institutions, to facilitate connection, communication and access to information.</p><br/>
+    <a href="{{ '/directorio/' | absolute_url }}" class="bottom">Read</a>
   </div>  
 </div>
 </div></div>
 
 
 
-
-
-
-
-<!--
-<div class="panel" data-color="green"></div>
-
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
-  <h3>Mapas</h3>
-  <p>Un conjunto de visualizaciones que reflejan el actuar colectivo ante la desaparición y el surgimiento del trabajo de búsqueda en México y en países a su alrededor. Un análisis de datos y narrativa con la percepción de organización colectiva y de violencia.</p>
-  <div class="main_full_img">
-    <img src="assets/images/mapa_cover.gif">
-  </div>
-  <a href="{{ '/datavis/' | absolute_url }}">Ver Mapas</a>
-</div></div><!-- /content /archivo -->
-
-
-
-
-
-
-<div class="content-container">
-<div class="archivo animatable fadeInUp">
-<h3>Este proyecto es posible gracias al apoyo de</h3>
+<h3>This project was possible thanks to the support of</h3>
 <div class="row">
   <div class="column">
     <img src="../assets/images/Brown_logo_brown.png" style="width:70%; margin-bottom:16px;"/>
@@ -239,11 +156,10 @@ lang: en
 </div></div><!-- /content /archivo -->
 
 
-
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
-  <p class="footer"><span>Última actualización:</span> Septiembre, 2022.</p>
-  <p class="footer"><span>Contáctanos:</span> bridgingthesearch@gmail.com </p>
+  <p class="footer"><span>Last Update:</span> September, 2022.</p>
+  <p class="footer"><span>Contact Us:</span> bridgingthesearch@gmail.com </p>
   <p class="footer"><a href="https://www.instagram.com/no_estan.solas/?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></p>
   <p class="footer"><a href="https://www.facebook.com/Bridging-the-Search-112376501363178/about/?ref=page_internal" target="_blank">Facebook</a></p>
 </div></div><!-- /content /archivo -->

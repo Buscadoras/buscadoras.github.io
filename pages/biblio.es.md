@@ -18,30 +18,29 @@ lang: es
   <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>
   <a href="#" class="tag" data-filter=".podcast">Podcast</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
-
-<p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
+  <p><a href="../assets/Bibliografia_selecta.pdf" target="_blank">Descarga esta selección.</a></p>
+  <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>
 </div>
 
-<div class="directorio">
+<div class="directorio" style="background-color: #F7F6F6;">
 {% assign row = site.data.biblio_es %}
 {% for pair in row %}
 
 <div class="line {{ pair["format"] }}">
   <h2>{{ pair["title"] }}</h2>
   <p><strong>Autor:</strong> {{ pair["creator_s"] }}</p>
-
-  {% if pair["year"] != null %}
-    <p><strong>Year:</strong> {{ pair["year"] }}</p>
+  {% if pair["language"] != null %}
+    <p><strong>Idioma:</strong> {{ pair["language"] }}</p>
   {% endif %}
-
+  {% if pair["year"] != null %}
+    <p><strong>Año:</strong> {{ pair["year"] }}</p>
+  {% endif %}
   {% if pair["organization"] != null %}
     <p><strong>Organización:</strong> {{ pair["organization"] }}</p>
   {% endif %}
-
   {% if pair["original_link"] != null %}
     <p><a href="{{ pair["original_link"] }}" target="_blank" class="web">Consultar fuente</a></p>
   {% endif %}
-
 </div><!-- row -->
 {% endfor %}
 

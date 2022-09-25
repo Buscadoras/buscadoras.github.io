@@ -234,7 +234,7 @@ a.Tw {
 
 sidebar {
 	background-color: #DBDADA;
-	width: 16%;
+	width: 17%;
 	height: 100%;
 	position: fixed;
 	left: 0;
@@ -268,7 +268,7 @@ div#guide {
   height: 160px;
   margin-left: 10%;
   position: absolute;
-  top: 350px;
+  bottom: 180px;
   h1 {
     color: #fff;
     position: absolute;
@@ -346,8 +346,7 @@ ul.nav-menu li {
 
 .nav-menu li a:link,
 .nav-menu li a:visited,
-.nav-menu li a:active,
-a#about:link, a#about:visited, a#about:active {
+.nav-menu li a:active {
   text-decoration: none;
 	border-bottom: none;
   font-size: 18px;
@@ -357,16 +356,10 @@ a#about:link, a#about:visited, a#about:active {
   color: $gray;
 }
 
-.nav-menu li a:hover,
-a#about:hover {
+.nav-menu li a:hover {
   color: #428270;
 }
 
-a#about:link, a#about:visited, a#about:active {
-  position: relative;
-  top: 210px;
-  left: 24px;
-}
 
 
 
@@ -475,8 +468,7 @@ a#about:link, a#about:visited, a#about:active {
   }
   nav.navbar,
   p.nav-p,
-  div#guide,
-  a#about:link  {
+  div#guide {
     display: none;
     z-index: 102;
   }
@@ -670,6 +662,7 @@ dl#steps {
   span {
     color: #22A17E;
     font-size: 42px;
+    margin: 0 8px 0 0;
   }
 }
 
@@ -869,7 +862,7 @@ p.intro {
 
 
 div.documentos {
-  width: 90%;
+  width: 80%;
   .row {
     margin: 36px 0;
     background-color: $neutro_9;
@@ -878,17 +871,17 @@ div.documentos {
   h4 {
     font-family: $body-font;
     font-size: 1.4em;
-    margin: 28px 0 16px 0;
+    margin: 18px 0 16px 0;
     width: 90%;
   }
   p {
-    margin: 0;
+    margin: 4px 0;
     width: 90%;
     font-size: 1em;
     line-height: 1.4em;
   }
   img {
-    width: 80%;
+    width: 90%;
   }
 }
 
@@ -901,7 +894,6 @@ div.documentos {
 
 div.directorio {
   width: 80%;
-  background-color: $neutro_9;
   padding: 0 12px;
   margin: 0px 0 0 0;
 }
@@ -927,6 +919,31 @@ div.line {
     font-size: 14px;
     font-weight: 600;
   }
+}
+
+
+
+div.docus {
+  min-height: 390px;
+  /*
+  position: relative;
+  h2 {
+    font-family: $body-font;
+    font-size: 1.2em;
+    font-weight: 800;
+    margin: 0 0 8px 0;
+    color: #428270;
+    width: 90%;
+  }
+  p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0;
+  }
+  a:link, a:visited, a:active {
+    font-size: 14px;
+    font-weight: 600;
+  }*/
 }
 
 

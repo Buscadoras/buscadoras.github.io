@@ -13,19 +13,18 @@ lang: es
 
 <div class="side">
   <a href="#" class="tag factive" data-filter="all">Mostrar todo</a>
-  <a href="#" class="tag" data-filter=".colectivo">Colectivo</a>
-  <a href="#" class="tag" data-filter=".Journalism">Periodismo</a>
-  <a href="#" class="tag" data-filter=".NGO">NGO</a>
-  <a href="#" class="tag" data-filter=".InternationalOrganization">Organización internacional</a>
-  <a href="#" class="tag" data-filter=".Solidarity">Solidaridad</a>
+  <a href="#" class="tag" data-filter=".Colectivo">Colectivo</a>
+  <a href="#" class="tag" data-filter=".Periodismo">Periodismo</a>
+  <a href="#" class="tag" data-filter=".ONG">ONG</a>
+  <a href="#" class="tag" data-filter=".OrganismoInternacional">Organismo Internacional</a>
+  <a href="#" class="tag" data-filter=".Solidarios">Solidarios</a>
   <a href="#" class="tag" data-filter=".Academia">Academia</a>
-  <a href="#" class="tag" data-filter=".LocalGovernment">Gobierno local</a>
-  <a href="#" class="tag" data-filter=".FederalGovernment">Gobierno federal</a>
-
+  <a href="#" class="tag" data-filter=".GobiernoLocal">Gobierno Local</a>
+  <a href="#" class="tag" data-filter=".GobiernoFederal">Gobierno Federal</a>
   <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
 </div>
 
-<div class="directorio">
+<div class="directorio" style="background-color: #F7F6F6;">
 
 {% assign row = site.data.directory %}
 {% for pair in row %}
@@ -35,7 +34,7 @@ lang: es
 
   <h2>{{ pair["nombre"] }}</h2>
 
-<!--  <p><strong>{{ pair["type"] }}</strong></p>-->
+  <!--<p><strong>{{ pair["type"] }}</strong></p>-->
   <p><strong>País:</strong> {{ pair["country"] }}</p>
 
   {% if pair["state"] != null %}

@@ -143,8 +143,8 @@ $('.tag').click(function(){
   var filterValue = $(this).attr('data-filter');
   $('a.tag').removeClass('factive');
   $(this).addClass('factive');
-  if(filterValue == 'all') { $('.line').show('slow'); }
-  else { $('.line').hide(); $(filterValue).show(); }
+  if(filterValue == 'all') { $('.line, .docus').show('slow'); }
+  else { $('.line, .docus').hide(); $(filterValue).show(); }
 });
 
 
