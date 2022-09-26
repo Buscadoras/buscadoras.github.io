@@ -22,12 +22,15 @@ lang: es
   <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>
 </div>
 
+
 <div class="directorio" style="background-color: #F7F6F6;">
 {% assign row = site.data.biblio_es %}
+
 {% for pair in row %}
 
 <div class="line {{ pair["format"] }}">
   <h2>{{ pair["title"] }}</h2>
+  <!--<h2>{{ pair["cat"] }}</h2>-->
   <p><strong>Autor:</strong> {{ pair["creator_s"] }}</p>
   {% if pair["language"] != null %}
     <p><strong>Idioma:</strong> {{ pair["language"] }}</p>

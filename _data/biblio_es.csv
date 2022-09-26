@@ -1,57 +1,57 @@
-pid,format,title,creator_s,language,organization,year,original_link
-recsp01,libro,Tiempo suspendido. Una historia de la desaparición forzada en México 1940-1980,Camilo Vicente Ovalle,Spanish,Bonilla Artigas Editores,2019,https://bonillaartigaseditores.com/products/tiempo-suspendido-una-historia-de-la-desaparicion-forzada-en-mexico-1940-1980-vicente-ovalle-camilo 
-recsp02,libro,Drama social y política del duelo: Las desapariciones de la guerra contra las drogas en Tijuana,Carolina Robledo Silvestre,Spanish,COLMEX,2017,https://www.jstor.org/stable/j.ctv2tw0dk
-recsp03,libro,El tiempo de Ayotzinapa,Carlos Beristain,Spanish,Akal,2017,https://www.akal.com/libro/el-tiempo-de-ayotzinapa_49823/
-recsp04,libro,Grieving. Dispatches from a Wounded Country,Cristina Rivera Garza,English,The Feminist Press,2011,https://www.feministpress.org/books-a-m/grieving 
-recsp05,libro,Ya no somos las mismas: Y aquí sigue la guerra,Daniela Rea (editora),Spanish,Grijalbo - Pie de Página,2020,https://www.penguinrandomhouse.com/books/669911/ya-no-somos-las-mismas-y-aqui-sigue-la-guerra--we-are-no-longer-the-same-and-here-the-war-continues-by-daniela-rea/ 
-recsp06,libro,Capitalismo antidrogas. Una guerra contra el pueblo,Dawn Marie Paley,Spanish,Libertad Bajo Palabra,2020,https://www.dawnpaley.ca/s/paley-capitalismo-antidrogas.pdf
-recsp07,libro,Guerra Neoliberal. Desaparición y búsqueda en el norte de México,Dawn Paley,Spanish,Libertad bajo palabra,2020,https://libertadbajopalabraz.wordpress.com/portfolio/guerra-neoliberal-desaparicion-y-busqueda-en-el-norte-de-mexico/
-recsp08,libro,Procesos de la noche,Diana del Ángel,Spanish,Almadía,2017,https://almadiaeditorial.com/producto/procesos-de-la-noche/
-recsp09,libro,Informe Ayotzinapa. Investigación y primeras conclusiones de las desapariciones y homicidios de los normalistas de Ayotzinapa,Grupo Interdisciplinario de Expertos Independientes para el Caso Ayotzinapa,Spanish,GIEI,2015,https://prensagieiayotzi.wixsite.com/giei-ayotzinapa/informe-
-recsp10,libro,"Informe Ayotzinapa II. Avances y nuevas conclusiones sobre la investigación, búsqueda y atención a víctimas",Grupo Interdisciplinario de Expertos Independientes para el Caso Ayotzinapa,Spanish,GIEI,2016,https://prensagieiayotzi.wixsite.com/giei-ayotzinapa/informe-
-recsp11,libro,Informe Ayotzinapa III. Resumen,Grupo Interdisciplinario de Expertos Independientes para el Caso Ayotzinapa,Spanish,GIEI,2022,https://centroprodh.org.mx/2022/03/29/informe-giei-ayotzinapa-iii/
-recsp12,libro,Cuerpos liminales. La performatividad de la búsqueda,Ileana Diéguez Caballero,Spanish,Ediciones DocumentA/Escénicas,2022,http://edicionesdocumenta.com.ar/2022/01/cuerpos-liminales-la-performatividad-de-la-busqueda/
-recsp13,libro,Una historia oral de la infamia. Los ataques contra los normalistas de Ayotzinapa,John Gibler,Spanish,Sexto Piso,2020,https://sextopiso.mx/esp/item/534/una-historia-oral-de-la-infamia
-recsp14,libro,Una historia de violencia. Vivir y morir en Centroamérica,Óscar Martinez,Spanish,Debate,2017,https://www.penguinrandomhouse.com/libros/578450/una-historia-de-violencia-vida-y-muerte-en-centroamerica--a-history-of-violence-by-oscar-martinez/
-recsp15,libro,Antígona González,Sandra Uribe,Spanish,Sur+Ediciones,2012,https://poesiamexa.files.wordpress.com/2016/06/antc3adgona-gonzc3a1lez.pdf
-recsp16,libro,Capitalismo gore,Sayak Valencia,Spanish,Melusina,2010,https://www.melusina.com/libro.php?idg=39246
-recsp17,libro,Huesos en el desierto,Sergio González Rodríguez,Spanish,Anagrama,2010,https://www.anagrama-ed.es/libro/cronicas/huesos-en-el-desierto/9788433925541/CR_54
-recsp18,libro,Los 43 de Iguala. México: verdad y reto de los estudiantes desaparecidos,Sergio González Rodríguez,Bilingual,Anagrama,2015,https://www.anagrama-ed.es/libro/cronicas/los-43-de-iguala/9788433926098/CR_109
-recsp19,libro,Recetario para la memoria,"Zahara Gómez Lucini, Las Rastreadoras del Fuerte
+pid,cat,format,title,creator_s,language,organization,year,original_link
+recsp01,1,libro,Tiempo suspendido. Una historia de la desaparición forzada en México 1940-1980,Camilo Vicente Ovalle,Spanish,Bonilla Artigas Editores,2019,https://bonillaartigaseditores.com/products/tiempo-suspendido-una-historia-de-la-desaparicion-forzada-en-mexico-1940-1980-vicente-ovalle-camilo 
+recsp02,1,libro,Drama social y política del duelo: Las desapariciones de la guerra contra las drogas en Tijuana,Carolina Robledo Silvestre,Spanish,COLMEX,2017,https://www.jstor.org/stable/j.ctv2tw0dk
+recsp03,2,libro,El tiempo de Ayotzinapa,Carlos Beristain,Spanish,Akal,2017,https://www.akal.com/libro/el-tiempo-de-ayotzinapa_49823/
+recsp04,1,libro,Grieving. Dispatches from a Wounded Country,Cristina Rivera Garza,English,The Feminist Press,2011,https://www.feministpress.org/books-a-m/grieving 
+recsp05,1,libro,Ya no somos las mismas: Y aquí sigue la guerra,Daniela Rea (editora),Spanish,Grijalbo - Pie de Página,2020,https://www.penguinrandomhouse.com/books/669911/ya-no-somos-las-mismas-y-aqui-sigue-la-guerra--we-are-no-longer-the-same-and-here-the-war-continues-by-daniela-rea/ 
+recsp06,1,libro,Capitalismo antidrogas. Una guerra contra el pueblo,Dawn Marie Paley,Spanish,Libertad Bajo Palabra,2020,https://www.dawnpaley.ca/s/paley-capitalismo-antidrogas.pdf
+recsp07,1,libro,Guerra Neoliberal. Desaparición y búsqueda en el norte de México,Dawn Paley,Spanish,Libertad bajo palabra,2020,https://libertadbajopalabraz.wordpress.com/portfolio/guerra-neoliberal-desaparicion-y-busqueda-en-el-norte-de-mexico/
+recsp08,1,libro,Procesos de la noche,Diana del Ángel,Spanish,Almadía,2017,https://almadiaeditorial.com/producto/procesos-de-la-noche/
+recsp09,3,libro,Informe Ayotzinapa. Investigación y primeras conclusiones de las desapariciones y homicidios de los normalistas de Ayotzinapa,Grupo Interdisciplinario de Expertos Independientes para el Caso Ayotzinapa,Spanish,GIEI,2015,https://prensagieiayotzi.wixsite.com/giei-ayotzinapa/informe-
+recsp10,3,libro,"Informe Ayotzinapa II. Avances y nuevas conclusiones sobre la investigación, búsqueda y atención a víctimas",Grupo Interdisciplinario de Expertos Independientes para el Caso Ayotzinapa,Spanish,GIEI,2016,https://prensagieiayotzi.wixsite.com/giei-ayotzinapa/informe-
+recsp11,3,libro,Informe Ayotzinapa III. Resumen,Grupo Interdisciplinario de Expertos Independientes para el Caso Ayotzinapa,Spanish,GIEI,2022,https://centroprodh.org.mx/2022/03/29/informe-giei-ayotzinapa-iii/
+recsp12,1,libro,Cuerpos liminales. La performatividad de la búsqueda,Ileana Diéguez Caballero,Spanish,Ediciones DocumentA/Escénicas,2022,http://edicionesdocumenta.com.ar/2022/01/cuerpos-liminales-la-performatividad-de-la-busqueda/
+recsp13,1,libro,Una historia oral de la infamia. Los ataques contra los normalistas de Ayotzinapa,John Gibler,Spanish,Sexto Piso,2020,https://sextopiso.mx/esp/item/534/una-historia-oral-de-la-infamia
+recsp14,1,libro,Una historia de violencia. Vivir y morir en Centroamérica,Óscar Martinez,Spanish,Debate,2017,https://www.penguinrandomhouse.com/libros/578450/una-historia-de-violencia-vida-y-muerte-en-centroamerica--a-history-of-violence-by-oscar-martinez/
+recsp15,1,libro,Antígona González,Sandra Uribe,Spanish,Sur+Ediciones,2012,https://poesiamexa.files.wordpress.com/2016/06/antc3adgona-gonzc3a1lez.pdf
+recsp16,1,libro,Capitalismo gore,Sayak Valencia,Spanish,Melusina,2010,https://www.melusina.com/libro.php?idg=39246
+recsp17,3,libro,Huesos en el desierto,Sergio González Rodríguez,Spanish,Anagrama,2010,https://www.anagrama-ed.es/libro/cronicas/huesos-en-el-desierto/9788433925541/CR_54
+recsp18,2,libro,Los 43 de Iguala. México: verdad y reto de los estudiantes desaparecidos,Sergio González Rodríguez,Bilingual,Anagrama,2015,https://www.anagrama-ed.es/libro/cronicas/los-43-de-iguala/9788433926098/CR_109
+recsp19,2,libro,Recetario para la memoria,"Zahara Gómez Lucini, Las Rastreadoras del Fuerte
 ",Spanish,,2020,https://www.recetarioparalamemoria.com/en/inicio
-recsp20,libro,The land of open graves,Jason de León,English,University of California Press,2015,https://www.ucpress.edu/libro/9780520282759/the-land-of-open-graves
-recsp21,periodismo,El país de las dos mil fosas,"Alejandra Guillén, Mago Torres and Marcela Turati",Spanish,A dónde van los desaparecidos,2018,https://adondevanlosdesaparecidos.org/2018/11/12/2-mil-fosas-en-mexico/
-recsp22,periodismo,Crisis Forense,"Marcela Turati, Efraín Tzuc",Spanish,Quinto Elemento Lab,,https://quintoelab.org/crisisforense/
-recsp23,periodismo,Gone [Ausentes],"Stephanie Nolen, Félix Márquez",Bilingual,The Globe and Mail,2020,https://www.theglobeandmail.com/world/article-los-desaparecidos-una-mirada-dentro-de-las-familias-que-arriesgan-todo/
-recsp24,periodismo,Desaparecido es un lugar-A place called Disappeared,Daniela Rea,Bilingual,Global Initiative Resilience Fund,2021,https://landscapes.globalinitiative.net/index.html
-recsp25,audiovisual,Águilas,"Kristy Guevara-Flanagan, Maite Zubiaurre, Danielle Mackey",Bilingual,The New Yorker,2021,https://www.newyorker.com/culture/the-new-yorker-documentary/the-grim-compassion-of-searching-for-missing-migrants-in-the-desert
-recsp26,audiovisual,Buscadores,,Spanish,Pie de Página,2017,https://piedepagina.mx/buscadores/
-recsp27,audiovisual,El cuarto de los huesos (The room of bones),Marcela Zamora,Bilingual,,2015,https://www.youtube.com/watch?v=d9Xw_HjC5GY
-recsp28,audiovisual,El eterno presente (The Eternal Present),Ignacio Rosaslanda,,,2020,https://culturaendirecto.unam.mx/video/el-eterno-presente-festival-jose-rovirosa-de-documental-en-linea-2021/
-recsp29,audiovisual,El Violín (The Violin),Francisco Vargas,Spanish,,2005,https://www.youtube.com/watch?v=Ko7p1ZrySQk
-recsp30,audiovisual,Guerrero,Ludovic Bonleux,Spanish,,2017,https://www.youtube.com/watch?v=NC7Z9HLpgbU
-recsp31,audiovisual,Las tres muertes de Maricela Escobedo (The Three Deaths of Maricela Escobedo),Carlos Pérez Osorio,Bilingual,,2020,https://www.netflix.com/us-es/title/81002192
-recsp32,audiovisual,No sucumbió la eternidad (Eternity Never Surrendered),Daniela Rea,Bilingual,,2017,https://vimeo.com/264356833
-recsp33,audiovisual,Persistencia (Persistence),"Anne Huffshmidt, Jan-Holger Hennies",Spanish,,2019,https://vimeo.com/353875557
-recsp34,audiovisual,Puntos Suspensivos (Elipsis),Paola Ovalle & Alfonso Díaz Tovar,Spanish,,2015,https://vimeo.com/134689061
-recsp35,audiovisual,Sin tregua (No Truce),Diego Rabasa,Spanish,,2019,https://www.youtube.com/watch?v=5uiKVB9amJo
-recsp36,audiovisual,"Soles negros (Black Suns, Soleils Noirs)",Julien Elie,,,2018,https://vimeo.com/272020494
-recsp37,audiovisual,Tempestad,Tatiana Huezo,,,2016,https://www.youtube.com/watch?v=ZcsTU8W_Bv8
-recsp38,audiovisual,"Te nombré en el silencio (I Called For You In Silence),",José María Espinosa,Spanish,,2021,https://www.youtube.com/watch?v=9aE2jdAjg4Q
-recsp39,audiovisual,Until we find them,Hunter Johnson,Bilingual,,2020,https://www.untilwefindthem.com/
-recsp40,audiovisual,Vivos,Ai Wei Wei,,,2020,https://vimeo.com/ondemand/vivos
-recsp41,audiovisual,Volverte a ver,Carolina Corral,Spanish,Amate Films,2020,https://www.amatefilms.mx/en/video/volverte-a-ver/
-recsp42,audiovisual,Ya no somos invisibles (We are no longer invisible),Colectivo de Familiares Desaparecidos y Asesinados en Chilpancingo & Heriberto Paredes Coronel,,,2019,https://vimeo.com/371057192
-recsp43,podcast,Camino a encontrarles. Historias de búsqueda,A dónde van los desaparecidos,Spanish,IMER Noticias y Quinto elemento Lab,,https://open.spotify.com/show/65fULeDud7oBUq4c5M9QKu?si=zBJFAwdNS6q4jLjVtKS4og&nd=1
-recsp44,podcast,Nos llaman las locas de las palas,Centro Prodh,Spanish,,2020,https://open.spotify.com/episode/0f34LmiVpii1gmXT2UAezj
-recsp45,podcast,The Disappeared: An Open Wound in Latin America,Brigada Nacional de Búsqueda ,,,,https://open.spotify.com/playlist/5UIk1DD768cKkCyE7A8WvT?si=3eda18c57621491c&nd=1
-recsp46,podcast,Forgotten: Women of Juárez,Mónica Ortiz Uribe,English,,2020,https://podcasts.apple.com/us/podcast/forgotten-women-of-ju%C3%A1rez/id1458661510
-recsp47,podcast,El agua hablará. Relatos de búsquedas en lo profundo,Celia Guerrero y Mayela Sánchez,Spanish,Bajo Tierra,,http://www.bajotierramedia.com/
-recsp48,podcast,Las madres del desierto de Sonora,El Hilo,Spanish,Radio Ambulante,,https://elhilo.audio/podcast/desaparecidos-mexico/
-recsp49,podcast,Searching for Mexico’s Disappeared,Gina Hinojosa y Maureen Meyer,English,WOLA,2020,https://www.wola.org/analysis/searching-for-mexicos-disappeared/
-recsp50,podcast,Los desaparecidos de Jalisco (The Disappeared from Jalisco),Alejandra Guillén,Spanish,Así como suena,2018,https://open.spotify.com/episode/1ydYkPWAZQ34LxDiAsLDwu
-recsp51,multimedia,"1er Curso de especialización en búsqueda y localización de personas desaparecidas por familiares buscadores. Recursos, experiencias y estrategias actuales","UAM Cuajimalpa, Coordinated by Edgar Chávez Hernández, with participations by: Silvia Ortiz de Sánchez-Viesca. Presidenta de Grupo V.I.D.A. Laguna, A.C. ,Coahuila; Fabiola Pensado Barrera. Colectivo Familiares María Herrera, Xalapa, Veracruz; Micaela González Heras, Colectivo Uniendo Corazones, Culiacán, Sinaloa; Angélica Rodríguez Monroy – Colectivo Regresando a Casa, Morelos",,,2020,http://www.cua.uam.mx/events/primer-curso-de-especializacion-en-busqueda-de-personas-desaparecidas-por-familiares-buscadores-recursos-experiencias-estrategias-actuales
-recsp52,multimedia,Ecologies of Migrant Care,Hemispheric Institute of Performance and Politics ,Bilingual,New York University,,https://ecologiesofmigrantcare.org/
-recsp53,multimedia,Forensic Landscapes,Anne Huffschmid,Bilingual,,,https://www.forensiclandscapes.com/
-recsp54,multimedia,Huellas de la Memoria,Huellas de la Memoria Collective,Spanish,,,https://www.youtube.com/watch?v=Is3nu9fJBLg
-recsp55,multimedia,Ayotzinapa. Una cartografía de la violencia. Ayotzinapa. A Cartography of Violence,Forensic Architecture,English,,2017,https://forensic-architecture.org/investigation/the-enforced-disappearance-of-the-ayotzinapa-students
+recsp20,1,libro,The land of open graves,Jason de León,English,University of California Press,2015,https://www.ucpress.edu/libro/9780520282759/the-land-of-open-graves
+recsp21,3,periodismo,El país de las dos mil fosas,"Alejandra Guillén, Mago Torres and Marcela Turati",Spanish,A dónde van los desaparecidos,2018,https://adondevanlosdesaparecidos.org/2018/11/12/2-mil-fosas-en-mexico/
+recsp22,1,periodismo,Crisis Forense,"Marcela Turati, Efraín Tzuc",Spanish,Quinto Elemento Lab,,https://quintoelab.org/crisisforense/
+recsp23,2,periodismo,Gone [Ausentes],"Stephanie Nolen, Félix Márquez",Bilingual,The Globe and Mail,2020,https://www.theglobeandmail.com/world/article-los-desaparecidos-una-mirada-dentro-de-las-familias-que-arriesgan-todo/
+recsp24,1,periodismo,Desaparecido es un lugar-A place called Disappeared,Daniela Rea,Bilingual,Global Initiative Resilience Fund,2021,https://landscapes.globalinitiative.net/index.html
+recsp25,2,audiovisual,Águilas,"Kristy Guevara-Flanagan, Maite Zubiaurre, Danielle Mackey",Bilingual,The New Yorker,2021,https://www.newyorker.com/culture/the-new-yorker-documentary/the-grim-compassion-of-searching-for-missing-migrants-in-the-desert
+recsp26,2,audiovisual,Buscadores,,Spanish,Pie de Página,2017,https://piedepagina.mx/buscadores/
+recsp27,2,audiovisual,El cuarto de los huesos (The room of bones),Marcela Zamora,Bilingual,,2015,https://www.youtube.com/watch?v=d9Xw_HjC5GY
+recsp28,1,audiovisual,El eterno presente (The Eternal Present),Ignacio Rosaslanda,,,2020,https://culturaendirecto.unam.mx/video/el-eterno-presente-festival-jose-rovirosa-de-documental-en-linea-2021/
+recsp29,3,audiovisual,El Violín (The Violin),Francisco Vargas,Spanish,,2005,https://www.youtube.com/watch?v=Ko7p1ZrySQk
+recsp30,1,audiovisual,Guerrero,Ludovic Bonleux,Spanish,,2017,https://www.youtube.com/watch?v=NC7Z9HLpgbU
+recsp31,1,audiovisual,Las tres muertes de Maricela Escobedo (The Three Deaths of Maricela Escobedo),Carlos Pérez Osorio,Bilingual,,2020,https://www.netflix.com/us-es/title/81002192
+recsp32,1,audiovisual,No sucumbió la eternidad (Eternity Never Surrendered),Daniela Rea,Bilingual,,2017,https://vimeo.com/264356833
+recsp33,2,audiovisual,Persistencia (Persistence),"Anne Huffshmidt, Jan-Holger Hennies",Spanish,,2019,https://vimeo.com/353875557
+recsp34,2,audiovisual,Puntos Suspensivos (Elipsis),Paola Ovalle & Alfonso Díaz Tovar,Spanish,,2015,https://vimeo.com/134689061
+recsp35,1,audiovisual,Sin tregua (No Truce),Diego Rabasa,Spanish,,2019,https://www.youtube.com/watch?v=5uiKVB9amJo
+recsp36,1,audiovisual,"Soles negros (Black Suns, Soleils Noirs)",Julien Elie,,,2018,https://vimeo.com/272020494
+recsp37,1,audiovisual,Tempestad,Tatiana Huezo,,,2016,https://www.youtube.com/watch?v=ZcsTU8W_Bv8
+recsp38,1,audiovisual,"Te nombré en el silencio (I Called For You In Silence),",José María Espinosa,Spanish,,2021,https://www.youtube.com/watch?v=9aE2jdAjg4Q
+recsp39,1,audiovisual,Until we find them,Hunter Johnson,Bilingual,,2020,https://www.untilwefindthem.com/
+recsp40,1,audiovisual,Vivos,Ai Wei Wei,,,2020,https://vimeo.com/ondemand/vivos
+recsp41,1,audiovisual,Volverte a ver,Carolina Corral,Spanish,Amate Films,2020,https://www.amatefilms.mx/en/video/volverte-a-ver/
+recsp42,1,audiovisual,Ya no somos invisibles (We are no longer invisible),Colectivo de Familiares Desaparecidos y Asesinados en Chilpancingo & Heriberto Paredes Coronel,,,2019,https://vimeo.com/371057192
+recsp43,2,podcast,Camino a encontrarles. Historias de búsqueda,A dónde van los desaparecidos,Spanish,IMER Noticias y Quinto elemento Lab,,https://open.spotify.com/show/65fULeDud7oBUq4c5M9QKu?si=zBJFAwdNS6q4jLjVtKS4og&nd=1
+recsp44,1,podcast,Nos llaman las locas de las palas,Centro Prodh,Spanish,,2020,https://open.spotify.com/episode/0f34LmiVpii1gmXT2UAezj
+recsp45,2,podcast,The Disappeared: An Open Wound in Latin America,Brigada Nacional de Búsqueda ,,,,https://open.spotify.com/playlist/5UIk1DD768cKkCyE7A8WvT?si=3eda18c57621491c&nd=1
+recsp46,2,podcast,Forgotten: Women of Juárez,Mónica Ortiz Uribe,English,,2020,https://podcasts.apple.com/us/podcast/forgotten-women-of-ju%C3%A1rez/id1458661510
+recsp47,2,podcast,El agua hablará. Relatos de búsquedas en lo profundo,Celia Guerrero y Mayela Sánchez,Spanish,Bajo Tierra,,http://www.bajotierramedia.com/
+recsp48,2,podcast,Las madres del desierto de Sonora,El Hilo,Spanish,Radio Ambulante,,https://elhilo.audio/podcast/desaparecidos-mexico/
+recsp49,2,podcast,Searching for Mexico’s Disappeared,Gina Hinojosa y Maureen Meyer,English,WOLA,2020,https://www.wola.org/analysis/searching-for-mexicos-disappeared/
+recsp50,2,podcast,Los desaparecidos de Jalisco (The Disappeared from Jalisco),Alejandra Guillén,Spanish,Así como suena,2018,https://open.spotify.com/episode/1ydYkPWAZQ34LxDiAsLDwu
+recsp51,3,multimedia,"1er Curso de especialización en búsqueda y localización de personas desaparecidas por familiares buscadores. Recursos, experiencias y estrategias actuales","UAM Cuajimalpa, Coordinated by Edgar Chávez Hernández, with participations by: Silvia Ortiz de Sánchez-Viesca. Presidenta de Grupo V.I.D.A. Laguna, A.C. ,Coahuila; Fabiola Pensado Barrera. Colectivo Familiares María Herrera, Xalapa, Veracruz; Micaela González Heras, Colectivo Uniendo Corazones, Culiacán, Sinaloa; Angélica Rodríguez Monroy – Colectivo Regresando a Casa, Morelos",,,2020,http://www.cua.uam.mx/events/primer-curso-de-especializacion-en-busqueda-de-personas-desaparecidas-por-familiares-buscadores-recursos-experiencias-estrategias-actuales
+recsp52,1,multimedia,Ecologies of Migrant Care,Hemispheric Institute of Performance and Politics ,Bilingual,New York University,,https://ecologiesofmigrantcare.org/
+recsp53,1,multimedia,Forensic Landscapes,Anne Huffschmid,Bilingual,,,https://www.forensiclandscapes.com/
+recsp54,2,multimedia,Huellas de la Memoria,Huellas de la Memoria Collective,Spanish,,,https://www.youtube.com/watch?v=Is3nu9fJBLg
+recsp55,3,multimedia,Ayotzinapa. Una cartografía de la violencia. Ayotzinapa. A Cartography of Violence,Forensic Architecture,English,,2017,https://forensic-architecture.org/investigation/the-enforced-disappearance-of-the-ayotzinapa-students
