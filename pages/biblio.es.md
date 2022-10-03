@@ -12,7 +12,7 @@ lang: es
 </div>
 
 <div class="side">
-  <a href="#" class="tag factive" data-filter="all">Mostrar todo</a>
+  <a href="#" class="tag factive" data-filter="all">Mostrar Todo</a>
   <a href="#" class="tag" data-filter=".libro">Libros</a>
   <a href="#" class="tag" data-filter=".periodismo">Periodismo de investigación</a>
   <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>

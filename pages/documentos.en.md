@@ -5,10 +5,10 @@ permalink: /documentos/
 lang: en
 ---
 
-<h3>Documents.</h3>
+<h3>Documents</h3>
 
 <div class="directorio">
-<p class="intro">Una compilación de herramientas bibliográficas y documentos para la búsqueda y voces de la búsqueda; leyes, protocolos gubernamentales, guías básicas, testimonios e historias de búsqueda realizadas por organizaciones de sociedad civil y organismos internacionales de la mano de las familias.</p>
+<p class="intro">A compilation tools and documents for searching, as well as voices from the search, including: laws, government protocols, basic guides, testimonies and stories of the search that is carried out by civil society organizations and international agencies working hand in hand with family members.</p>
 </div>
 
 
@@ -30,9 +30,9 @@ lang: en
 
   <p><strong>Type:</strong> {{ pair["document_ type"] }}</p>
   <p><strong>Audience:</strong> {{ pair["intended_audience"] }}</p>
-  <p><strong>Author(s):</strong> {{ pair["creator_s"] }}, {{ pair["year"] }}</p><br/>
+  <p><strong>Author(s):</strong> {{ pair["creator_s"] }}, {{ pair["year"] }}</p>
 
-  <p><a href="https://bulabe.com/buscadoras/documents_pdfs/doc{{pair["orden"]}}.pdf" target="_blank" class="web">Descarga el documento [PDF]</a></p>
+  <p><a href="https://bulabe.com/buscadoras/documents_pdfs/doc{{pair["orden"]}}.pdf" target="_blank" class="web">Download this document [PDF]</a></p>
 </div>
 
 

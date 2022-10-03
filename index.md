@@ -9,9 +9,8 @@ lang: es
   <h2 class="page-subtitle">Información • Análisis crítico • Memoria colectiva</h2>
   <div class="content-top">
     <h1>Saberes para <br>la búsqueda de <br><span class="color-brick">personas desaparecidas</span><br>en México<span class="color-brick">.</span></h1>
-    <p class="big"><span style="color:#428270; font-weight:600;">No Están Solas</span> es un proyecto multidisciplinario que surge en la <span style="font-weight:600;">Universidad de Columbia</span> con el objetivo de ofrecer un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos y familiares.</p>
-    <p class="big">Buscamos brindar un espacio productivo, colaborativo y práctico para socializar información, ofrecer análisis crítico y construir memoria colectiva.</p>
-    <p class="big">Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan. <span class="start">↓</span></p>
+    <p class="big"><span style="color:#428270; font-weight:600;">No Están Solas</span> es un proyecto que surge de la <strong>Buscadoras Research Unit</strong>, un voluntariado estudiantil de la <strong>Universidad de Columbia</strong> con el objetivo de ofrecer un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos y familiares.</p>
+    <p class="big">Buscamos brindar un espacio productivo, colaborativo y práctico para socializar información, ofrecer análisis crítico y construir memoria colectiva. Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan. <span class="start">↓</span></p>
   </div><!-- content -->
 </div><!-- cover -->
 
@@ -30,7 +29,7 @@ lang: es
 <div class="quote animatable fadeInUp"><div class="content-container">
 <h4>“Creo que con el paso del tiempo lamentablemente te das cuenta que si no buscas tú, nadie lo va a hacer.”</h4>
 <h5>– Tranquilina Hernández Lagunes.</h5>
-<p>En México, para mediados del 2022, hay <span style="font-weight:600; color:#E66D4B;">+100,000</span> personas desaparecidas según <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank">números oficiales</a>, la mayoría de los casos se dieron desde el comienzo de la guerra contra los cárteles de las drogas en 2006. La inacción y omisión de las autoridades, el estancamiento burocrático y la impunidad han llevado a las familias a tomar el asunto en sus propias manos para buscar y lograr encontrar a sus seres queridos. </p>
+<p>En México, para mediados del 2022, hay más de <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank" style="font-size: 28px;">100,000</a> personas desaparecidas según <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank">números oficiales</a>, la mayoría de los casos se dieron desde el comienzo de la guerra contra los cárteles de las drogas en 2006. La inacción y omisión de las autoridades, el estancamiento burocrático y la impunidad han llevado a las familias a tomar el asunto en sus propias manos para buscar y lograr encontrar a sus seres queridos. </p>
 </div></div><!-- quote content-container -->
 
 
@@ -232,7 +231,7 @@ lang: es
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
   <p class="footer"><span>Última actualización:</span> Septiembre, 2022.</p>
-  <p class="footer"><span>Contáctanos:</span> bridgingthesearch@gmail.com </p>
+  <p class="footer"><span>Contáctanos:</span> Noestansolas@columbia.edu</p>
   <p class="footer"><a href="https://www.instagram.com/no_estan.solas/?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></p>
   <p class="footer"><a href="https://www.facebook.com/Bridging-the-Search-112376501363178/about/?ref=page_internal" target="_blank">Facebook</a></p>
 </div></div><!-- /content /archivo -->

@@ -27,7 +27,7 @@ lang: en
 <div class="quote animatable fadeInUp"><div class="content-container">
 <h4>“I think that with the passage of time, unfortunately, you realize that if you don't search, no one else will.”</h4>
 <h5>– Tranquilina Hernández Lagunes.</h5>
-<p>In Mexico <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank">official numbers</a> of missing persons have surpassed <span style="font-weight:600; color:#E66D4B;">100,000</span>, most of which having occurred since the beginning of the war against drug cartels in 2006. The inaction and neglect of authorities, bureaucratic stagnation and impunity have led families to take matters into their own hands to search for and succeed in finding their loved ones.</p>
+<p>In Mexico <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank">official numbers</a> of missing persons have surpassed <a href="https://versionpublicarnpdno.segob.gob.mx" target="_blank" style="font-size: 28px;">100,000</a>, most of which having occurred since the beginning of the war against drug cartels in 2006. The inaction and neglect of authorities, bureaucratic stagnation and impunity have led families to take matters into their own hands to search for and succeed in finding their loved ones.</p>
 </div></div><!-- quote content-container -->
 
 
@@ -66,7 +66,7 @@ lang: en
 
 <div class="quote animatable fadeInUp"><div class="content-container">
 <p>Throughout <span class="color-brick" style="font-weight:600;">Mexico</span> and in neighboring countries, families have organized themselves into <span class="color-brick" style="font-weight:600;">collectives</span>, mainly composed of women, and are developing search methods, advocating for institutional changes and supporting those facing disappearance, to find those who have disappeared, not just their own loved ones.</p>
-<h4>“Desde el primer día que yo salí a buscar a mi hijo adopté a todos los desaparecidos como si fueran uno solo.”</h4>
+<h4>"From the first day I went out to look for my son, I adopted all the disappeared as if they were one”</h4>
 <h5>– Cecilia Patricia Flores Armenta.</h5>
 </div></div><!-- quote content-container -->
 
@@ -124,7 +124,7 @@ lang: en
   <div class="column">
     <h3>Reference Material</h3>
     <p>A compilation tools and documents for searching, as well as voices from the search, including: laws, government protocols, basic guides, testimonies and stories of the search that is carried out by civil society organizations and international agencies working hand in hand with family members.</p><br/>
-    <a href="{{ '/recursos/' | absolute_url }}" class="bottom">Consultar</a>
+    <a href="{{ '/recursos/' | absolute_url }}" class="bottom">Read more</a>
   </div>
   <div class="column">
     <h3>Directory</h3>
@@ -133,7 +133,6 @@ lang: en
   </div>  
 </div>
 </div></div>
-
 
 
 <div class="content-container">
@@ -159,7 +158,7 @@ lang: en
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
   <p class="footer"><span>Last Update:</span> September, 2022.</p>
-  <p class="footer"><span>Contact Us:</span> bridgingthesearch@gmail.com </p>
+  <p class="footer"><span>Contact:</span> bridgingthesearch@gmail.com </p>
   <p class="footer"><a href="https://www.instagram.com/no_estan.solas/?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></p>
   <p class="footer"><a href="https://www.facebook.com/Bridging-the-Search-112376501363178/about/?ref=page_internal" target="_blank">Facebook</a></p>
 </div></div><!-- /content /archivo -->

@@ -270,9 +270,9 @@ div#guide {
   position: absolute;
   bottom: 180px;
   h1 {
-    color: #fff;
+    color: #32302F;
     position: absolute;
-    top: 50px;
+    top: 45px;
     left: 12px;
     font-size: 22px;
     line-height: 26px;
@@ -281,11 +281,11 @@ div#guide {
     }
   }
   h2 {
-    color: #fff;
+    color: #E52C90;
     position: absolute;
-    top: 20px;
+    top: 18px;
     left: 12px;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 18px;
     font-weight: 600;
     text-transform: uppercase;
@@ -296,10 +296,11 @@ div#guide {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #008A80;
+    background-color: #E4E2E2;
+    border: 1px solid #CAC6C5;
   }
   a:hover {
-      background-color: #337358;
+      background-color: #EEEEEC;
   }
 }
 
@@ -1349,7 +1350,7 @@ item pages (iiif + metadata)
     color: $red !important;
     text-decoration: none !important;
     background-color: transparent;
-    margin: 0;
+    margin: 0 0 0 18px;
     &:hover{
       color: $green_0 !important;
     }
@@ -1358,18 +1359,14 @@ item pages (iiif + metadata)
 
 #handlers {
   position: fixed;
-  top: 40%;
+  top: 42%;
   right: 120px;
   background-color: #CAC6C5;
   border-radius: 8px;
   padding: 0 22px;
+  z-index: 99;
 }
-#prevlink {
-  float:left;
-}
-.nextlink {
-  float: right;
-}
+
 .item-label {
   margin: 40px 0 0px 0;
 }

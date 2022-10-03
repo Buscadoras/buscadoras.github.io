@@ -7,43 +7,43 @@ lang: en
 
 <div id="about">
 
-<h4>About: They are not alone</h4>
+<h4>About the project</h4>
 
 <div class="pink">
-<p><strong>No Están Solas: Saberes para la búsqueda de personas desaparecidas en México</strong>, tiene como objetivo la creación de un portal bilingüe que ofrezca un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos, familiares y buscadoras. Funcionará como un espacio productivo, práctico y de fácil acceso para socializar la información, la intercomunicación, el análisis crítico y la construcción de memoria colectiva. A través de la producción de cápsulas con colectivos y familiares, y la articulación de datos e información, este proyecto facilitará el diálogo entre aquellos que no están familiarizados y aquellos que han adquirido amplia experiencia y se han familiarizado con la realidad de la desaparición a través de las fronteras. Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan.</p>
+<p><strong>No Están Solas: Bridging the Search for the Disappeared in Mexico</strong>, , aims to create a bilingual portal offering a set of pedagogical and informative tools on the collective response to disappearances in Mexico and the search work of collectives, family members, and searchers. It will function as a productive, practical, and easily accessible space for the socialization of information, intercommunication, critical analysis, and the construction of collective memory. Through the production of capsules with collectives and family members and the articulation of data and information, this project will facilitate dialogue between those unfamiliar and those who have acquired extensive experience and have become familiar with the reality of disappearance across borders. Finally, we want to respond to a pressing need for cross-border coordination between organizations, knowledge-generating institutions, and searchers.</p>
 
-<p><strong>Este proyecto es posible gracias a la “Beca Mágica” 2021-2022 del Instituto Brown, una colaboración entre las Universidades de Columbia y Stanford; el apoyo del Centro de Estudios de México y Centroamérica y la Biblioteca de la Universidad Columbia.</strong></p>
+<p><strong>This project is made possible by a 2021-2022 "Magic Grant" from the Brown Institute, a collaboration between Columbia and Stanford Universities, support from the Center for the Study of Mexico and Central America, and the Columbia University Library.</strong></p>
 </div>
 
 
 <div class="spacer_a"></div>
 
 <div class="archivo animatable fadeInUp" data-color="neutro">
-<h3>Antecedentes</h3>
-<p>La idea del Proyecto surge a partir de la creación de La Unidad de Investigación de Buscadoras (BRU) creada en el otoño de 2020 por el profesor Claudio Lomnitz junto con los estudiantes de posgrado Greg Odum y Mónica Trigos, y la profesora Mónica Castillejos de la Facultad de Derecho de la Universidad de California-Berkeley. La BRU es un equipo de estudiantes y profesores voluntarios, organizado con el objetivo de apoyar a las organizaciones de personas desaparecidas que operan en México y Centroamérica en la actualidad. La Unidad de Investigación dedicó sus esfuerzos a desarrollar una investigación mutuamente productiva en colaboración con un colectivo mexicano de familiares de personas desaparecidas y desaparecidas, “Regresando a Casa Morelos”, al ofrecer el tiempo, las habilidades y las perspectivas de los estudiantes voluntarios para ayudar con una variedad de de investigación y necesidades educativas. La BRU junto con el Centro de Estudios Mexicanos organizaron una amplia conferencia de 3 días con organizaciones solidarias, colectivos familiares, investigadores y periodistas para compartir sus diversos proyectos sobre este tema y fortalecer redes de colaboración y aumentar el interés público.</p>
+<h3>Background</h3>
+<p>The idea for the Project stems from the creation of the Buscadoras Research Unit (BRU), created in the fall of 2020 by Professor Claudio Lomnitz along with graduate students Greg Odum and Monica Trigos and Professor Monica Castillejos of the University of California-Berkeley School of Law. The BRU is a team of student and faculty volunteers, organized with the goal of supporting missing persons organizations operating in Mexico and Central America today. The BRU dedicated its efforts to developing mutually productive research in collaboration with a Mexican collective of family members of missing and disappeared persons, "Regresando a Casa Morelos", by offering their time, skills, and perspectives to assist with a variety of research and educational needs. BRU, along with the Center for Mexican Studies, organized a comprehensive 3-day conference with solidarity organizations, family collectives, researchers, and journalists to share their diverse projects on this issue and to strengthen collaborative networks and increase public interest.</p>
 </div>
 
 
 
 <div class="archivo animatable fadeInUp" id="stories" data-color="neutro">
-<h3>Colaboradoras y colaboradores “No Están Solas” (2021-2022)</h3>
+<h3>Creators “No Están Solas” (2021-2022)</h3>
 
-<p>El equipo está compuesto por personas de México, Estados Unidos y otros países. Somos estudiantes, profesores, colectivos, investigadores, periodistas, activistas, investigadores, pero sobre todo, personas preocupadas por el tema de desaparición en México y que reconocen el papel que tienen las familias en la búsqueda.</p>
+<p>The team is composed of people from Mexico, the United States, and other countries. We are students, professors, collectives, researchers, journalists, activists, and investigators, but above all, people concerned about the issue of disappearance in Mexico and who recognize the role that families play in the search.</p>
 
 <dl>
-<dt>Administración del proyecto:</dt>
+<dt>Project Management:</dt>
 <dd>Alex Gil, Greg Odum y Mónica Trigos Padilla</dd>
-<dt>Diseño Web:</dt>
+<dt>Web Design:</dt>
 <dd>Alex Gil y Sandra Bermudez</dd>
-<dt>Asesoría:</dt>
+<dt>Consultants:</dt>
 <dd>Angélica Rodríguez, Claudio Lomnitz, Marina Álamo Bryan, Mónica Castillejos y Montserrat Castillo</dd>
-<dt>Periodismo, entrevistas e imagen:</dt>
+<dt>Journalism, Interviews, and Images:</dt>
 <dd>Heriberto Paredes Coronel, Marina Álamo Bryan y Rodrigo Caballero</dd>
-<dt>Investigación:</dt>
+<dt>Research:</dt>
 <dd>Ariadne Rivera, Alejandro Díaz, Berenice Camacho, Elizabeth Ojeda, Juliana Nino, Sofía Lesur y Víctor Márquez</dd>
-<dt>Edición de video:</dt>
+<dt>Video Editing:</dt>
 <dd>Óscar Aguilar</dd>
-<dt>Unidad de Investigación Buscadoras:</dt>
+<dt>Research Unit:</dt>
 <dd>Ariana Bon-Hodoyán, Asa Arthur-Andrew, Camila Santibáñez Pérez, Caroline Mendoza, Cecilia Paredes Garza Laguera, Giorgia Mirto, Jordan Kinard, Jonathan Murachanian y María Little</dd>
 </dl>
 
@@ -51,35 +51,32 @@ lang: en
 
 
 <div class="archivo animatable fadeInUp" id="stories" data-color="neutro">
-<h3>Alianzas</h3>
+<h3>Alliances and Collaborations</h3>
 <dl>
-<dt>Mapas y visualizaciones:</dt>
+<dt>Maps and Visualizations:</dt>
 <dd>Centro ITAM para Datos, Algoritmo y Sociedad - Jesús Ramos y Ulises Quevedo</dd>
-<dt>Taller de Historias Orales:</dt>
+<dt>Oral Histories Workshop:</dt>
 <dd>Fanny García</dd>
-<dt>Protocolos de seguridad:</dt>
+<dt>Security Protocols:</dt>
 <dd>Artículo 19</dd>
 </dl>
 
-<p>Agradecemos a las personas entrevistadas por darnos el espacio y el tiempo y, sobre todo, por compartir sus saberes y experiencias ante un contexto desgarrador.</p>
+<p>We thank the interviewees for giving us the space, time, and above all, for sharing their knowledge and experiences in a heartbreaking context.</p>
 </div>
 
-
-
-
 <div class="archivo animatable fadeInUp">
-<h3>Este proyecto es posible gracias al apoyo de:</h3>
+<h3>This project is possible thanks to the support of:</h3>
 <div class="row">
   <div class="column">
-    <img src="../assets/images/Brown_logo_brown.png" style="width:70%; margin-bottom:16px;"/>
+    <img src="../../assets/images/Brown_logo_brown.png" style="width:70%; margin-bottom:16px;"/>
     <p><a href="https://brown.stanford.edu" target="_blank">Brown Institute</a></p>
   </div>
   <div class="column">
-    <img src="../assets/images/columbia.jpg" style="width:70%; margin-bottom:16px;"/>
+    <img src="../../assets/images/columbia.jpg" style="width:70%; margin-bottom:16px;"/>
     <p><a href="https://library.columbia.edu" target="_blank">Columbia University</a></p>
   </div>
   <div class="column">
-    <img src="../assets/images/cemeca.png" style="width:70%; margin-bottom:16px;"/>
+    <img src="../../assets/images/cemeca.png" style="width:70%; margin-bottom:16px;"/>
     <p><a href="#" target="_blank">Cemeca</a></p>
   </div>
 </div><!-- /row -->

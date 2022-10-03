@@ -17,7 +17,7 @@ lang: es
   <a href="#" class="tag" data-filter=".Legal">Legal</a>
   <a href="#" class="tag" data-filter=".Testimonios">Testimonios</a>
   <a href="#" class="tag" data-filter=".Guía">Guía</a>
-  <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
+  <p><a href="https://docs.google.com/forms/d/1wTp6beCzq-N1uyiQhD-_8LiB_5q0HnBOwEdxMI-kniM/edit" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
 </div>
 
 <div class="documentos">
