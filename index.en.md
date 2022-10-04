@@ -129,7 +129,7 @@ lang: en
   <div class="column">
     <h3>Directory</h3>
     <p>A database with contact information for collectives, civil society organizations, international organizations and government institutions, to facilitate connection, communication and access to information.</p><br/>
-    <a href="{{ '/directorio/' | absolute_url }}" class="bottom">Read</a>
+    <a href="{{ '/directorio/' | absolute_url }}" class="bottom">Read more</a>
   </div>  
 </div>
 </div></div>
@@ -158,7 +158,7 @@ lang: en
 <div class="content-container">
 <div class="archivo animatable fadeInUp">
   <p class="footer"><span>Last Update:</span> September, 2022.</p>
-  <p class="footer"><span>Contact:</span> bridgingthesearch@gmail.com </p>
+  <p class="footer"><span>Contact:</span> Noestansolas@columbia.edu</p>
   <p class="footer"><a href="https://www.instagram.com/no_estan.solas/?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></p>
   <p class="footer"><a href="https://www.facebook.com/Bridging-the-Search-112376501363178/about/?ref=page_internal" target="_blank">Facebook</a></p>
 </div></div><!-- /content /archivo -->

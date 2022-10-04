@@ -64,9 +64,17 @@ lang: es
 </dl>
 </div>
 
+
 <div class="pink animatable fadeInUp">
 <p><strong>Agradecemos a las personas entrevistadas por darnos el espacio y el tiempo y, sobre todo, por compartir sus saberes y experiencias ante un contexto desgarrador.</strong></p>
 </div>
+
+<div class="archivo animatable fadeInUp">
+  <p class="footer"><span>Última actualización:</span> Septiembre, 2022.</p>
+  <p class="footer"><span>Contáctanos:</span> Noestansolas@columbia.edu</p>
+  <p class="footer"><a href="https://www.instagram.com/no_estan.solas/?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></p>
+  <p class="footer"><a href="https://www.facebook.com/Bridging-the-Search-112376501363178/about/?ref=page_internal" target="_blank">Facebook</a></p>
+</div><!-- /content /archivo -->
 
 
 <div class="archivo animatable fadeInUp">

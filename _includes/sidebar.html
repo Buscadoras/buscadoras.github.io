@@ -36,8 +36,6 @@
 </ul>
 </nav>
 
-
-
 <div id="guide"><a href="{{ '/guia/' | absolute_url }}" target="_self">
   <h2>{{ site.data[site.active_lang]["sidebar"].guide_1 }}:</h2>
   <h1>{{ site.data[site.active_lang]["sidebar"].guide_2 }}</h1>
@@ -46,7 +44,7 @@
 <p id="lang">
 <!-- jekyll-polyglot will process ferh= into href= through the static_href liquid block tag without relativizing the url; useful for making language navigation switchers  -->
 {% for language in site.languages %}
-<a {% if language == site.active_lang %}style="background-color: #DDFEF4; color: #000; text-decoration:none;"{% endif %} {% static_href %}href="{% if language == site.default_lang %}{{ "" | absolute_url}}{{page.url}}{% else %}{{"" | absolute_url}}/{{ language }}{{page.url}}{% endif %}"{% endstatic_href %} >
+<a {% if language == site.active_lang %}style="background-color: #00FFB6; color: #000; text-decoration:none;"{% endif %} {% static_href %}href="{% if language == site.default_lang %}{{ "" | absolute_url}}{{page.url}}{% else %}{{"" | absolute_url}}/{{ language }}{{page.url}}{% endif %}"{% endstatic_href %} >
   {% for i in site.data.languages %}
   {% if i.iso == language %}
     {% assign language_name = i.description %}

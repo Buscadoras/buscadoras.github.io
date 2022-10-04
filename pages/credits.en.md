@@ -60,8 +60,17 @@ lang: en
 <dt>Security Protocols:</dt>
 <dd>Artículo 19</dd>
 </dl>
+</div>
 
-<p>We thank the interviewees for giving us the space, time, and above all, for sharing their knowledge and experiences in a heartbreaking context.</p>
+<div class="pink animatable fadeInUp">
+<p><strong>We thank the interviewees for giving us the space, time, and above all, for sharing their knowledge and experiences in a heartbreaking context.</strong></p>
+</div>
+
+<div class="archivo animatable fadeInUp">
+  <p class="footer"><span>Last Update:</span> September, 2022.</p>
+  <p class="footer"><span>Contact:</span> Noestansolas@columbia.edu</p>
+  <p class="footer"><a href="https://www.instagram.com/no_estan.solas/?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a></p>
+  <p class="footer"><a href="https://www.facebook.com/Bridging-the-Search-112376501363178/about/?ref=page_internal" target="_blank">Facebook</a></p>
 </div>
 
 <div class="archivo animatable fadeInUp">

@@ -1,6 +1,5 @@
 
 <dl class='metadata-block'>
-
   {% for item in include.meta[site.active_lang] %}
     {% if item.value contains 'page.' %}
       {% assign key = item.value | remove: 'page.' %}

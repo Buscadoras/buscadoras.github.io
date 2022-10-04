@@ -15,7 +15,6 @@ lang: es
 </div><!-- cover -->
 
 
-
 <div id="full_bg_image"></div>
 <!--
 <div id="carousel"><ul>

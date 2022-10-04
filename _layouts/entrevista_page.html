@@ -31,11 +31,11 @@ layout: default
 {% endif %}
 
 
-<p>{{ site.data[site.active_lang]["global"].interview }}:</p>
+<p style="font-size:0.8rem; font-weight:800; text-transform: uppercase; margin: 0 0 8px 20px;">{{ site.data[site.active_lang]["global"].interview }}</p>
 <audio controls>
   <!--<source src="{{site.baseurl}}/assets/entrevistas/{{page.pid}}.mp3" type="audio/mpeg">-->
   <source src="https://bulabe.com/buscadoras/entrevistas/{{page.pid}}.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+  Your browser does not support the audio element.
 </audio>
 
 {% comment %}
