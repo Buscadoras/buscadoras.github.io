@@ -21,7 +21,7 @@ lang: es
   <a href="#" class="tag" data-filter=".Academia">Academia</a>
   <a href="#" class="tag" data-filter=".GobiernoLocal">Gobierno Local</a>
   <a href="#" class="tag" data-filter=".GobiernoFederal">Gobierno Federal</a>
-  <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScdnabpVPwj69cMLOgStXH7L9rU802pSuIH_W3Z6DbKBPxA0w/viewform?usp=sf_link" target="_blank">Colabora con esta selección a través de este formulario.</a></p>  
 </div>
 
 <div class="directorio" style="background-color: #F7F6F6;">

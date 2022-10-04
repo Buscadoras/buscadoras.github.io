@@ -11,7 +11,8 @@ lang: es
 
 <div class="pink">
 <p><strong>No Están Solas: Saberes para la búsqueda de personas desaparecidas en México</strong>, tiene como objetivo la creación de un portal bilingüe que ofrece un conjunto de herramientas pedagógicas e informativas sobre la respuesta colectiva ante las desapariciones en México y el trabajo de búsqueda de los colectivos, familiares y buscadoras.</p>
-<p>Funcionará como un espacio productivo, práctico y de fácil acceso para socializar la información, la intercomunicación, el análisis crítico y la construcción de memoria colectiva. A través de la producción de cápsulas con colectivos y familiares, y la articulación de datos e información, este proyecto facilitará el diálogo entre aquellos que no están familiarizados y aquellos que han adquirido amplia experiencia y se han familiarizado con la realidad de la desaparición a través de las fronteras.</p> <p>Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan.</p>
+<p>Funcionará como un espacio productivo, práctico y de fácil acceso para socializar la información, la intercomunicación, el análisis crítico y la construcción de memoria colectiva. A través de la producción de cápsulas con colectivos y familiares, y la articulación de datos e información, este proyecto facilitará el diálogo entre aquellos que no están familiarizados y aquellos que han adquirido amplia experiencia con la realidad de la desaparición a través de las fronteras.</p>
+<p>Finalmente, queremos responder a una necesidad apremiante de coordinación transfronteriza entre organizaciones, instituciones generadoras de conocimiento y las personas que buscan.</p>
 
 <p><strong>Este proyecto es posible gracias a la “Beca Mágica” 2021-2022 del Instituto Brown, una colaboración entre las Universidades de Columbia y Stanford; el apoyo del Centro de Estudios de México y Centroamérica y la Biblioteca de la Universidad Columbia.</strong></p>
 </div>
@@ -22,7 +23,7 @@ lang: es
 <h3>Antecedentes</h3>
 <p>La idea del Proyecto surge a partir de la creación de La Unidad de Investigación de Buscadoras (BRU) creada en el otoño de 2020 por el profesor Claudio Lomnitz junto con los estudiantes de posgrado Greg Odum y Mónica Trigos, y la profesora Mónica Castillejos de la Facultad de Derecho de la Universidad de California-Berkeley.</p>
 <p>La BRU es un equipo de estudiantes y profesores voluntarios, que se organizó con el objetivo de apoyar a las organizaciones de personas desaparecidas que operan en México y Centroamérica en la actualidad. La Unidad de Investigación dedicó sus esfuerzos a desarrollar una investigación mutuamente productiva en colaboración con un colectivo mexicano de familiares de personas desaparecidas, “Regresando a Casa Morelos”, al ofrecer el tiempo, las habilidades y las perspectivas de los estudiantes voluntarios para ayudar con una variedad de investigación y necesidades educativas.</p>
-<p>La BRU junto con el Centro de Estudios Mexicanos organizaron una amplia conferencia de 3 días con organizaciones solidarias, colectivos de familiares, investigadores y periodistas para compartir sus diversos proyectos sobre este tema y fortalecer redes de colaboración y aumentar el interés público.</p>
+<p>En mayo de 2021, la BRU junto con el Centro de Estudios Mexicanos organizaron una conferencia de 3 días con colectivos de familiares, sociedad civil, investigadores y periodistas para compartir sus proyectos, fortalecer redes de colaboración y aumentar el interés público.</p>
 </div>
 
 

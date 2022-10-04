@@ -21,7 +21,7 @@ lang: en
   <a href="#" class="tag" data-filter=".Academia">Academia</a>
   <a href="#" class="tag" data-filter=".GobiernoLocal">Local Government</a>
   <a href="#" class="tag" data-filter=".GobiernoFederal">Federal Government</a>
-  <p><a href="#" target="_blank">Collaborate with this section.</a></p>  
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScdnabpVPwj69cMLOgStXH7L9rU802pSuIH_W3Z6DbKBPxA0w/viewform?usp=sf_link" target="_blank">Collaborate with this section.</a></p>  
 </div>
 
 

@@ -34,13 +34,14 @@ h2 {
 }
 
 h3 {
-  font-family: $body-font;
-  font-size: 1.2em;
+
   font-weight: 800;
   margin: 40px 0 30px 0;
   color: #484644;
-  text-transform: uppercase;
   display: inline-block;
+  font-family: $heading-font;
+  font-size: 32px;
+  letter-spacing: 0.5px;
 }
 
 
@@ -90,7 +91,7 @@ p.big {
 
 @media only screen and (max-width: 880px) {
   h3 {
-    font-size: 2.6em;
+    font-size: 36px;
     margin: 60px 0 40px 0;
   }
 }
@@ -117,7 +118,6 @@ p.big {
 .hope {
   color: #00FFB6;
 }
-
 
 .color-cream {
   background-color: #FFF0FA;
@@ -695,7 +695,7 @@ div#about {
   }
   div.pink {
     background-color: #F0E1EB;
-    padding: 40px 60px 20px 60px;
+    padding: 30px 60px 20px 60px;
   }
 }
 
@@ -708,10 +708,9 @@ div#about {
   margin: 30px 0 60px 0;
   h3 {
     font-family: $body-font;
-    color: $gray;
+    color: #000;
     font-size: 12px;
-    letter-spacing: 1px;
-    font-weight: 600;
+    font-weight: 800;
     text-transform: uppercase;
     margin: 0 0 20px 0;
   }
@@ -731,15 +730,32 @@ div#about {
   p.footer {
     font-size: 16px;
     line-height: 26px;
-    margin: 0;
-    color: $gray;
+    margin: 12px 0;
     span {
       font-family: $body-font;
-      color: $gray;
+      background-color: #E52C90;
+      padding: 8px;
+      border-radius: 4px;
+      color: #fff;
       font-size: 12px;
-      letter-spacing: 1px;
-      font-weight: 600;
+      font-weight: 800;
       text-transform: uppercase;
+    }
+    a:link, a:visited {
+      font-family: $body-font;
+      border: 1px solid #CAC6C5;
+      background-color: #E4E2E2;
+      padding: 8px;
+      border-radius: 4px;
+      color: #E52C90;
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+    a:hover {
+      background-color: #E52C90;
+      border: 1px solid #CAC6C5;
+      color: #fff;
     }
   }
 }
@@ -1279,7 +1295,6 @@ PURO WAX
 
 .wax-inline-container {
   @extend .container;
-
   margin: 0 auto;
   max-width: 90%;
   width: $max-width;

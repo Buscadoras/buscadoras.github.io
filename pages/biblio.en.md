@@ -18,7 +18,8 @@ lang: en
   <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>
   <a href="#" class="tag" data-filter=".podcast">Podcast</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
-  <p><a href="../assets/Bibliografia_selecta.pdf" target="_blank">Download this selection.</a></p>
+  <p><a href="../../assets/Bibliografia_selecta.pdf" target="_blank">Download this selection.</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScy3fcad3skcbSdUyNLtZijKOVxwfsOQe7Sm-Q34D0tlGp9dw/viewform?usp=sharing" target="_blank">Collaborate with this section.</a></p>
 </div>
 
 

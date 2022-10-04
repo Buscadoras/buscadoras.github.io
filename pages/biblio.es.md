@@ -19,7 +19,7 @@ lang: es
   <a href="#" class="tag" data-filter=".podcast">Podcast</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
   <p><a href="../assets/Bibliografia_selecta.pdf" target="_blank">Descarga esta selección.</a></p>
-  <p><a href="#" target="_blank">Colabora con esta selección a través de este formulario.</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScy3fcad3skcbSdUyNLtZijKOVxwfsOQe7Sm-Q34D0tlGp9dw/viewform?usp=sharing" target="_blank">Colabora con esta selección a través de este formulario.</a></p>
 </div>
 
 

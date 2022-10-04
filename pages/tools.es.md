@@ -5,9 +5,11 @@ permalink: /tools/
 lang: es
 ---
 
-<h3>Saberes prácticos.</h3>
+<h3>Saberes prácticos</h3>
 
+<div class="directorio">
 <p class="intro">7 cápsulas (videos cortos) pedagógicas e informativas relatadas por familiares de personas desaparecidas compartiendo sus saberes sobre la desaparición y la búsqueda.</p>
+</div>
 
 <div class="row">
   <div class="column">
@@ -44,7 +46,6 @@ lang: es
     <div class="placeholder_video"></div>
     <p><a href="#" target="_blank">La Importancia de encontrarles y la memoria</a></p>
   </div>
-
 </div><!-- /row -->
 
 <div class="spacer_a"></div>

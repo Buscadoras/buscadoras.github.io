@@ -25,7 +25,6 @@ lang: es
 {% assign row = site.data.documentos %}
 {% for pair in row %}
 
-<!--<div class="row animatable fadeInUp line {{ pair["etiqueta"] }}">-->
 <div class="row docus {{ pair["etiqueta"] }}">
 
 <div class="column">

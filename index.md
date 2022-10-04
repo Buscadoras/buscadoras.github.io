@@ -186,8 +186,6 @@ lang: es
 
 
 
-
-
 <!--
 <div class="panel" data-color="green"></div>
 
@@ -200,9 +198,6 @@ lang: es
   </div>
   <a href="{{ '/datavis/' | absolute_url }}">Ver Mapas</a>
 </div></div><!-- /content /archivo -->
-
-
-
 
 
 
