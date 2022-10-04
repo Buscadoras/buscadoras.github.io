@@ -586,7 +586,6 @@ ul.nav-menu li {
 
 
 
-
 /* ––– LAYOUT ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -763,10 +762,18 @@ div#about {
 
 
 .placeholder_video {
-  width: 80%;
-  height: 180px;
-  background-color: #E2EEF7;
-  margin: 0 0 20px 0;
+  width: 100%;
+  height: 220px;
+  background-color: #E4E2E2;
+  border: 1px solid #CAC6C5;
+  margin: 0 0 12px 0;
+  position: relative;
+  text-align: center;
+  p {
+    font-size: 24px;
+    color: #fff;
+    margin: 100px 0 0 0;
+  }
 }
 
 
@@ -1048,6 +1055,9 @@ div.spacer_b {
   height: 60px;
 }
 
+div.spacer_c {
+  height: 30px;
+}
 
 
 
@@ -1381,10 +1391,29 @@ item pages (iiif + metadata)
   right: 120px;
   width: 10%;
   z-index: 99;
-  #prevlink {
-
-  }
 }
+
+
+
+@media only screen and (max-width: 768px) {
+#handlers {
+  position: fixed;
+  top: 80%;
+  right: 20px;
+  width: 10%;
+  z-index: 99;
+}
+h3.item-label {
+  margin: 60px 0 0 0;
+}
+dl.metadata-block {
+  width: 82%;
+}
+}
+
+
+
+
 
 .item-label {
   margin: 30px 0 0px 0;
@@ -1589,7 +1618,7 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: 600;
-          font-size: 22px;
+          font-size: 26px;
           line-height: 32px;
           color: #00FFB6;
           overflow: hidden;
