@@ -1171,6 +1171,65 @@ div.spacer_c {
 
 
 
+.modal {
+  margin: 100px auto;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #666;
+  width: 300px;
+  border-radius: 6px;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+.modal h2 { margin-top: 0; }
+.modal .close {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 20px;
+  right: 20px;
+  opacity: 0.8;
+  transition: all 200ms;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #777;
+}
+.modal .close:hover { opacity: 1; }
+.modal .content {
+  max-height: 400px;
+  overflow: auto;
+}
+.modal p {
+  margin: 0 0 1em;
+  text-align: center;
+}
+.modal p:last-child { margin: 0; }
+
+.overlayM {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 200ms;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 299;
+}
+.overlayM .cancel {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: default;
+}
+.overlayM:target {
+  visibility: visible;
+  opacity: 1;
+}
 
 
 
@@ -1409,6 +1468,7 @@ h3.item-label {
 dl.metadata-block {
   width: 82%;
 }
+
 }
 
 
