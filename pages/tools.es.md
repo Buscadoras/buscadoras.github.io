@@ -12,15 +12,10 @@ lang: es
 </div>
 
 
-
 <div id="modal1" class="overlayM">
-  <a class="cancel" href="#"></a>
-  <div class="modal">
-    <h2>This is Modal Overlay 1</h2>
-    <div class="content">
-    <p>Click outside the modal to close.</p>
-    </div>
-  </div>
+  <a class="cancel" href="#">X</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1bQTCTZ8MfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
 
 

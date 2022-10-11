@@ -18,6 +18,7 @@ lang: es
   <a href="#" class="tag" data-filter=".ONG">ONG</a>
   <a href="#" class="tag" data-filter=".OrganismoInternacional">Organismo Internacional</a>
   <a href="#" class="tag" data-filter=".Solidarios">Solidarios</a>
+
   <a href="#" class="tag" data-filter=".Academia">Academia</a>
   <a href="#" class="tag" data-filter=".GobiernoLocal">Gobierno Local</a>
   <a href="#" class="tag" data-filter=".GobiernoFederal">Gobierno Federal</a>

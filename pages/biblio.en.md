@@ -13,24 +13,23 @@ lang: en
 
 <div class="side">
   <a href="#" class="tag factive" data-filter="all">Show All</a>
-  <a href="#" class="tag" data-filter=".libro">Books</a>
-  <a href="#" class="tag" data-filter=".periodismo">Journalism</a>
-  <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>
-  <a href="#" class="tag" data-filter=".podcast">Podcast</a>
+  <a href="#" class="tag" data-filter=".book">Books</a>
+  <a href="#" class="tag" data-filter=".journalism">Investigative journalism</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
+  <a href="#" class="tag" data-filter=".film">Film</a>
+  <a href="#" class="tag" data-filter=".podcast">Podcast</a>
+
   <p><a href="../../assets/Bibliografia_selecta.pdf" target="_blank">Download this selection.</a></p>
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScy3fcad3skcbSdUyNLtZijKOVxwfsOQe7Sm-Q34D0tlGp9dw/viewform?usp=sharing" target="_blank">Collaborate with this section.</a></p>
 </div>
 
-
 <div class="directorio" style="background-color: #F7F6F6;">
-{% assign row = site.data.biblio_es %}
+{% assign row = site.data.biblio_en %}
 
 {% for pair in row %}
 
 <div class="line {{ pair["format"] }}">
   <h2>{{ pair["title"] }}</h2>
-  <!--<h2>{{ pair["cat"] }}</h2>-->
   <p><strong>Author:</strong> {{ pair["creator_s"] }}</p>
   {% if pair["language"] != null %}
     <p><strong>Language:</strong> {{ pair["language"] }}</p>

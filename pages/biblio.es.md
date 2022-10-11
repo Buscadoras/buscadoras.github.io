@@ -13,15 +13,18 @@ lang: es
 
 <div class="side">
   <a href="#" class="tag factive" data-filter="all">Mostrar Todo</a>
-  <a href="#" class="tag" data-filter=".libro">Libros</a>
+  <a href="#" class="tag" data-filter=".libros">Libros</a>
+  <a href="#" class="tag" data-filter=".reporte">Reporte</a>
   <a href="#" class="tag" data-filter=".periodismo">Periodismo de investigación</a>
-  <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>
-  <a href="#" class="tag" data-filter=".podcast">Podcast</a>
   <a href="#" class="tag" data-filter=".multimedia">Multimedia</a>
+  <a href="#" class="tag" data-filter=".audiovisual">Audiovisual</a>
+  <a href="#" class="tag" data-filter=".podcast">Pódcast</a>
+  <a href="#" class="tag" data-filter=".seminario">Pódcast</a>
+  <a href="#" class="tag" data-filter=".audio">Audio</a>
+
   <p><a href="../assets/Bibliografia_selecta.pdf" target="_blank">Descarga esta selección.</a></p>
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScy3fcad3skcbSdUyNLtZijKOVxwfsOQe7Sm-Q34D0tlGp9dw/viewform?usp=sharing" target="_blank">Colabora con esta selección a través de este formulario.</a></p>
 </div>
-
 
 <div class="directorio" style="background-color: #F7F6F6;">
 {% assign row = site.data.biblio_es %}
@@ -30,7 +33,6 @@ lang: es
 
 <div class="line {{ pair["format"] }}">
   <h2>{{ pair["title"] }}</h2>
-  <!--<h2>{{ pair["cat"] }}</h2>-->
   <p><strong>Autor:</strong> {{ pair["creator_s"] }}</p>
   {% if pair["language"] != null %}
     <p><strong>Idioma:</strong> {{ pair["language"] }}</p>

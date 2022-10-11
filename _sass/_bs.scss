@@ -234,7 +234,7 @@ a.Tw {
 
 sidebar {
 	background-color: #DBDADA;
-	width: 17%;
+	width: 18%;
 	height: 100%;
 	position: fixed;
 	left: 0;
@@ -590,9 +590,9 @@ ul.nav-menu li {
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .content-container {
-  width: 75%;
+  width: 72%;
   position: relative;
-  left: 19%;
+  left: 20%;
   z-index: 99;
   padding: 0;
   overflow: hidden;
@@ -1171,6 +1171,7 @@ div.spacer_c {
 
 
 
+
 .modal {
   margin: 100px auto;
   padding: 20px;
@@ -1181,15 +1182,13 @@ div.spacer_c {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
   position: relative;
 }
-.modal h2 { margin-top: 0; }
+
 .modal .close {
   position: absolute;
   width: 20px;
   height: 20px;
-  top: 20px;
-  right: 20px;
-  opacity: 0.8;
-  transition: all 200ms;
+  top: 120px;
+  right: 80px;
   font-size: 24px;
   font-weight: bold;
   text-decoration: none;
@@ -1220,12 +1219,7 @@ div.spacer_c {
   opacity: 0;
   z-index: 299;
 }
-.overlayM .cancel {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  cursor: default;
-}
+
 .overlayM:target {
   visibility: visible;
   opacity: 1;
