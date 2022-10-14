@@ -137,14 +137,28 @@ if ($(window).width()<768) {
 
 
 
-
-
 $('.tag').click(function(){
   var filterValue = $(this).attr('data-filter');
   $('a.tag').removeClass('factive');
   $(this).addClass('factive');
   if(filterValue == 'all') { $('.line, .docus').show('slow'); }
   else { $('.line, .docus').hide(); $(filterValue).show(); }
+});
+
+
+
+
+$('.button').click(function(){
+  var videoUrl = $(this).attr('vid');
+  var videoImg = $(this).attr('im');
+  $('.overlay').fadeIn();
+  $("#vi").attr("src", videoUrl);
+  $("#vi").attr("poster", videoImg);
+});
+
+$('.cancel').click(function(){
+ $('.overlay').fadeOut();
+ $("#vi").attr("src", "");
 });
 
 

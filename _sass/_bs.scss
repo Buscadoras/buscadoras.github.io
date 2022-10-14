@@ -781,6 +781,14 @@ div#about {
     left: 0;
     width: 100%;
   }
+  a:link, a:visited, a:active {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+  }
 }
 
 
@@ -1126,7 +1134,7 @@ div.spacer_c {
 
   div.directorio {
     width: 100%;
-    margin: 80px 0 0 0;
+    margin: 20px 0 0 0;
   }
   #cover h2.page-subtitle {
     margin: 80px 0 28px 0;
@@ -1213,7 +1221,7 @@ div.spacer_c {
 .modal p:last-child { margin: 0; }
 */
 
-.overlayM {
+.overlay {
   position: fixed;
   width: 100%;
   height: 100%;
@@ -1222,10 +1230,14 @@ div.spacer_c {
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.8);
+  z-index: 299;
+  display: none;
+/*
   transition: opacity 200ms;
   visibility: hidden;
   opacity: 0;
-  z-index: 299;
+  */
+
   .cancel {
     position: absolute;
     top: 50px;
@@ -1245,12 +1257,12 @@ div.spacer_c {
     margin-left: 10%;
   }
 }
-
+/*
 .overlayM:target {
   visibility: visible;
   opacity: 1;
 }
-
+*/
 
 
 

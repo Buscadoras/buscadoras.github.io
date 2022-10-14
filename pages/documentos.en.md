@@ -8,7 +8,7 @@ lang: en
 <h3>Resources</h3>
 
 <div class="directorio">
-<p class="intro">A compilation tools and documents for searching, as well as voices from the search, including: laws, government protocols, basic guides, testimonies and stories of the search that is carried out by civil society organizations and international agencies working hand in hand with family members.</p>
+<p class="intro">A compilation of different resources to aid in searching for the disappeared, including: legal documents, government protocols, basic guides and manuals, testimonies, and stories from various civil society organizations and international agencies working alongside family members.</p>
 </div>
 
 <div class="side">
