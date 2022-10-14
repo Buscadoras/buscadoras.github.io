@@ -268,7 +268,7 @@ div#guide {
   height: 160px;
   margin-left: 10%;
   position: absolute;
-  bottom: 180px;
+  bottom: 120px;
   h1 {
     color: #32302F;
     position: absolute;
@@ -766,13 +766,20 @@ div#about {
   height: 220px;
   background-color: #E4E2E2;
   border: 1px solid #CAC6C5;
-  margin: 0 0 12px 0;
+  margin: 0 0 18px 0;
   position: relative;
   text-align: center;
+  overflow: hidden;
   p {
     font-size: 24px;
     color: #fff;
     margin: 100px 0 0 0;
+  }
+  img {
+    position: relative;
+    top:0;
+    left: 0;
+    width: 100%;
   }
 }
 
@@ -1171,7 +1178,7 @@ div.spacer_c {
 
 
 
-
+/*
 .modal {
   margin: 100px auto;
   padding: 20px;
@@ -1204,6 +1211,7 @@ div.spacer_c {
   text-align: center;
 }
 .modal p:last-child { margin: 0; }
+*/
 
 .overlayM {
   position: fixed;
@@ -1213,17 +1221,36 @@ div.spacer_c {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.8);
   transition: opacity 200ms;
   visibility: hidden;
   opacity: 0;
   z-index: 299;
+  .cancel {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+  }
+  video {
+    margin: 80px auto;
+    background-color: #000;
+    margin-left: 10%;
+  }
 }
 
 .overlayM:target {
   visibility: visible;
   opacity: 1;
 }
+
 
 
 

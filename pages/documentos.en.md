@@ -17,7 +17,7 @@ lang: en
   <a href="#" class="tag" data-filter=".Legal">Legal</a>
   <a href="#" class="tag" data-filter=".Testimonios">Testimony</a>
   <a href="#" class="tag" data-filter=".Guía">Guide</a>
-  <p><a href="https://docs.google.com/forms/d/1wTp6beCzq-N1uyiQhD-_8LiB_5q0HnBOwEdxMI-kniM/edit" target="_blank">Collaborate with this section.</a></p>  
+  <p><a href="https://docs.google.com/forms/d/1wTp6beCzq-N1uyiQhD-_8LiB_5q0HnBOwEdxMI-kniM/edit" target="_blank">Contribute to this section.</a></p>  
 </div>
 
 <div class="documentos">

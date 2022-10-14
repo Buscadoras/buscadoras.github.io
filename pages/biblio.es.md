@@ -5,7 +5,7 @@ permalink: /biblio/
 lang: es
 ---
 
-<h3>Materiales de lectura</h3>
+<h3>Materiales de consulta</h3>
 
 <div class="directorio">
 <p class="intro">Una selección de materiales de lectura, trabajos periodísticos, análisis académicos, poesía, películas, proyectos multimedia, que funciona como introducción al contexto en México, la desaparición y la búsqueda.</p>

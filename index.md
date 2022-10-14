@@ -183,9 +183,6 @@ lang: es
 </div></div>
 
 
-
-
-
 <!--
 <div class="panel" data-color="green"></div>
 
