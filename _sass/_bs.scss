@@ -1574,7 +1574,6 @@ dl.metadata-block {
   font-family: $body-font;
   max-width: 100%;
   margin: 20px 0 90px 20px;
-  border: 1px solid #fff;
   padding: 10px 30px 20px 30px;
   width: 60%;
   dt {
@@ -1663,10 +1662,13 @@ search box
 
     .gallery-item {
       padding: 0;
-      margin: 0 12px 12px 0;
-      background-color: #ffffff;
+      margin: 0 22px 22px 0;
       max-height: $thumbnail-height;
       max-width: $thumbnail-width;
+      width: 250px;
+      height: 167px;
+      background-color: #E4E2E2;
+      border: 1px solid #CAC6C5;
 
       .gallery-thumb {
         object-position: 50% 20%;
