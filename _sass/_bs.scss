@@ -1501,6 +1501,14 @@ dl.metadata-block {
   width: 82%;
 }
 
+
+.item-full-image {
+  max-width: 100%;
+  max-height: 200px;
+}
+
+
+
 }
 
 
@@ -1525,8 +1533,8 @@ dl.metadata-block {
 
   .image-viewer {
     position: relative;
-    height:   $viewer-height;
-    max-height: 80vh;
+    /*height:   $viewer-height;
+    max-height: 80vh;*/
     width:    80%;
     margin:   $more-margin 0 $more-margin 0;
     text-align: center;
@@ -1537,8 +1545,8 @@ dl.metadata-block {
       font-size: 1em !important;
     }
     .item-full-image {
-      max-width: $max-width;
-      max-height: 100%;
+      max-width: 100%;
+      /*max-height: 100%;*/
       height: $viewer-height;
     }
   }
@@ -1663,8 +1671,8 @@ search box
     .gallery-item {
       padding: 0;
       margin: 0 22px 22px 0;
-      max-height: $thumbnail-height;
-      max-width: $thumbnail-width;
+      /*max-height: $thumbnail-height;
+      max-width: $thumbnail-width;*/
       width: 250px;
       height: 167px;
       background-color: #E4E2E2;
