@@ -65,7 +65,7 @@ lang: en
 <div class="quote animatable fadeInUp"><div class="content-container">
 <p>Throughout <span class="color-brick" style="font-weight:600;">Mexico</span> and in neighboring countries, family members, mainly women, have organized themselves into <span class="color-brick" style="font-weight:600;">collectives</span>, mainly composed of women, and are developing search methods, advocating for institutional changes and supporting those facing disappearance, to find those who have disappeared, not just their own loved ones.</p>
 <h4>"From the first day I went out to look for my son, I adopted all the disappeared as if they were one”</h4>
-<h5>– Cecilia Patricia Flores Armenta.</h5>
+<h5>– Ceci Patricia Flores Armenta.</h5>
 </div></div><!-- quote content-container -->
 
 

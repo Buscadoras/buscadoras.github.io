@@ -77,7 +77,7 @@ lang: es
 <div class="quote animatable fadeInUp"><div class="content-container">
 <p>En todo <span class="color-brick" style="font-weight:600;">México</span> y en países vecinos las familias han organizado <span style="font-weight:600;">colectivos</span>, principalmente compuestos por mujeres, desarrollando métodos de búsqueda, abogando por cambios institucionales y apoyando a quienes enfrentan una desaparición, para encontrar, ya no solo a los suyos.</p>
 <h4>“Desde el primer día que yo salí a buscar a mi hijo adopté a todos los desaparecidos como si fueran uno solo.”</h4>
-<h5>– Cecilia Patricia Flores Armenta.</h5>
+<h5>– Ceci Patricia Flores Armenta.</h5>
 </div></div><!-- quote content-container -->
 
 
