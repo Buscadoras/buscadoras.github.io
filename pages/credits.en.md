@@ -41,7 +41,7 @@ lang: en
 <dt>Research:</dt>
 <dd>Ariadne Rivera, Alejandro Díaz, Berenice Camacho, Elizabeth Ojeda, Juliana Nino, Sofía Lesur y Víctor Márquez</dd>
 <dt>Video Editing:</dt>
-<dd>Óscar Aguilar</dd>
+<dd>Oscar A. Sánchez</dd>
 <dt>Buscadoras Research Unit:</dt>
 <dd>Ariana Bon-Hodoyán, Asa Arthur-Andrew, Camila Santibáñez Pérez, Caroline Mendoza, Cecilia Paredes Garza Laguera, Giorgia Mirto, Jordan Kinard, Jonathan Murachanian y María Little</dd>
 </dl>
