@@ -18,8 +18,8 @@ body {
 }
 
 ::selection {
-  color: $neutro_9;
-  background: $neutro_9;
+  color: #EEEEEC;
+  background: #CAC6C5;
 }
 
 h2, h3, h4, h5,
@@ -763,7 +763,7 @@ div#about {
 .placeholder_video {
   width: 100%;
   height: 220px;
-  background-color: #E4E2E2;
+  background-color: #DDFEF4;
   border: 1px solid #CAC6C5;
   margin: 0 0 18px 0;
   position: relative;
@@ -1250,7 +1250,7 @@ div.spacer_c {
     text-align: center;
     line-height: 50px;
   }
-  video {
+  iframe {
     margin: 80px auto;
     background-color: #000;
     margin-left: 10%;

@@ -150,15 +150,15 @@ $('.tag').click(function(){
 
 $('.button').click(function(){
   var videoUrl = $(this).attr('vid');
-  var videoImg = $(this).attr('im');
+  var videoTitle = $(this).attr('title');
   $('.overlay').fadeIn();
-  $("#vi").attr("src", videoUrl);
-  $("#vi").attr("poster", videoImg);
+  $('.overlay iframe').attr('src', videoUrl);
+  $('.overlay iframe').attr('title', videoTitle);
 });
 
 $('.cancel').click(function(){
  $('.overlay').fadeOut();
- $("#vi").attr("src", "");
+ $('.overlay iframe').attr('src', '');
 });
 
 
