@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Buscadoras
-permalink: 
+permalink: /
 lang: en
 ---
 
